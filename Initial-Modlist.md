@@ -14,15 +14,19 @@ Modloader: Forge (possibly with sinytra connector) <br>
 ## Tech Mods:
 - [Create](https://modrinth.com/mod/create) [Fabric/Forge]
   - ADD EVERY SINGLE COMPAT MOD POSSIBLE
+- [aleki's Nifty Ships](https://modrinth.com/mod/alekiships) [Forge]
+- [Crypto](https://modrinth.com/mod/crypto/gallery) [Forge]
 
 ## Challenge Mods:
 - [Consecration](https://www.curseforge.com/minecraft/mc-mods/consecration) [Fabric/Forge]
 - [L_Ender's Cataclysm](https://modrinth.com/mod/l_enders-cataclysm) [Forge]
+- [Extinction Z](https://www.curseforge.com/minecraft/mc-mods/extinction-z) [Forge]
 
 ## Environmental Mods:
 - [Alex's Caves](https://modrinth.com/mod/alexs-caves) [Forge]
 - [Creature Compendium](https://modrinth.com/mod/creature-compendium) [Forge]
 - [Rediscovered](https://modrinth.com/mod/rediscovered) [Forge]
+- [Goblin's Tyranny](https://www.curseforge.com/minecraft/mc-mods/goblins-tyranny)
 
 ## Progression / customization mods:
 
