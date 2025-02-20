@@ -7,10 +7,13 @@ Modloader: Forge (possibly with sinytra connector) <br>
 - [Iron's Spells 'n Spellbooks](https://modrinth.com/mod/irons-spells-n-spellbooks) [Forge]
   - [T.O Tweaks - Iron's Spells Add-on](https://modrinth.com/mod/to-tweaks-irons-spells)
   - [Spells Gone Wrong](https://modrinth.com/mod/spells-gone-wrong)
-- 
+- [Elementals](https://modrinth.com/mod/elemental) [Fabric]
+- [True | Prime Piece](https://www.curseforge.com/minecraft/mc-mods/true-prime-piece) [Forge]
+- [Arcanus](https://modrinth.com/mod/arcanus) [Fabric]
 
 ## Tech Mods:
 - [Create](https://modrinth.com/mod/create) [Fabric/Forge]
+  - ADD EVERY SINGLE COMPAT MOD POSSIBLE
 
 ## Challenge Mods:
 - [Consecration](https://www.curseforge.com/minecraft/mc-mods/consecration) [Fabric/Forge]
@@ -18,7 +21,12 @@ Modloader: Forge (possibly with sinytra connector) <br>
 
 ## Environmental Mods:
 - [Alex's Caves](https://modrinth.com/mod/alexs-caves) [Forge]
+- [Creature Compendium](https://modrinth.com/mod/creature-compendium) [Forge]
+- [Rediscovered](https://modrinth.com/mod/rediscovered) [Forge]
 
 ## Progression / customization mods:
 
 ## QOL mods:
+- [KeybindsGalore Plus](https://modrinth.com/mod/keybindsgaloreplus) [Fabric]
+- [Item Scrapper](https://www.curseforge.com/minecraft/mc-mods/item-scrapper) [Forge]
+- [HandToHand](https://modrinth.com/mod/handtohand) [Fabric/Forge]
