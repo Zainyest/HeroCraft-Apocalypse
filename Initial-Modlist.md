@@ -22,6 +22,7 @@ Modloader: Forge (possibly with sinytra connector) <br>
 - [L_Ender's Cataclysm](https://modrinth.com/mod/l_enders-cataclysm) [Forge]
 - [Extinction Z](https://www.curseforge.com/minecraft/mc-mods/extinction-z) [Forge]
 - [experimental_mobs](https://www.curseforge.com/minecraft/mc-mods/experimental-mobs) [Forge]
+- [The Wilted](https://www.curseforge.com/minecraft/mc-mods/the-root-of-fear)
 
 ## Environmental Mods:
 - [Alex's Caves](https://modrinth.com/mod/alexs-caves) [Forge]
