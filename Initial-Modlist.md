@@ -21,12 +21,14 @@ Modloader: Forge (possibly with sinytra connector) <br>
 - [Consecration](https://www.curseforge.com/minecraft/mc-mods/consecration) [Fabric/Forge]
 - [L_Ender's Cataclysm](https://modrinth.com/mod/l_enders-cataclysm) [Forge]
 - [Extinction Z](https://www.curseforge.com/minecraft/mc-mods/extinction-z) [Forge]
+- [experimental_mobs](https://www.curseforge.com/minecraft/mc-mods/experimental-mobs) [Forge]
 
 ## Environmental Mods:
 - [Alex's Caves](https://modrinth.com/mod/alexs-caves) [Forge]
 - [Creature Compendium](https://modrinth.com/mod/creature-compendium) [Forge]
 - [Rediscovered](https://modrinth.com/mod/rediscovered) [Forge]
-- [Goblin's Tyranny](https://www.curseforge.com/minecraft/mc-mods/goblins-tyranny)
+- [Goblin's Tyranny](https://www.curseforge.com/minecraft/mc-mods/goblins-tyranny) [Forge]
+- [Raxiores](https://www.curseforge.com/minecraft/mc-mods/raxiores-dinosaur-mode) [Forge]
 
 ## Progression / customization mods:
 
