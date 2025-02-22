@@ -21,7 +21,7 @@ Modloader: Forge <br>
 - [Extinction Z](https://www.curseforge.com/minecraft/mc-mods/extinction-z) [Forge]
 - [experimental_mobs](https://www.curseforge.com/minecraft/mc-mods/experimental-mobs) [Forge]
 - [The Wilted](https://www.curseforge.com/minecraft/mc-mods/the-root-of-fear) [Forge]
-- ### Horde/infection mods:
+- ### Horde / infection mods:
 - [Skulk Horde](https://modrinth.com/mod/sculk-horde) [Forge]
 - [The Flesh That Hates](https://modrinth.com/mod/tfth) [Forge]
 - [From Another World](https://modrinth.com/mod/from-another-world) [Fabric/Forge]
@@ -40,8 +40,10 @@ Modloader: Forge <br>
 - [Goblin's Tyranny](https://www.curseforge.com/minecraft/mc-mods/goblins-tyranny) [Forge]
 - [Raxiores](https://www.curseforge.com/minecraft/mc-mods/raxiores-dinosaur-mode) [Forge]
 - [Battle Allays](https://www.curseforge.com/minecraft/mc-mods/battle-allays) [Forge]
+- [Underground Village, Stoneholm](https://modrinth.com/mod/underground-village,-stoneholm) [Fabric/Forge]
 
 ## Progression / customization mods:
+- [Dimensional Doors](https://modrinth.com/mod/dimensionaldoors) [Fabric/Forge]
 
 ## QOL mods:
 - [Item Scrapper](https://www.curseforge.com/minecraft/mc-mods/item-scrapper) [Forge]
