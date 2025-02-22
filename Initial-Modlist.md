@@ -22,16 +22,16 @@ Modloader: Forge <br>
 - [experimental_mobs](https://www.curseforge.com/minecraft/mc-mods/experimental-mobs) [Forge]
 - [The Wilted](https://www.curseforge.com/minecraft/mc-mods/the-root-of-fear) [Forge]
 - ### Horde/infection mods:
-- [Skulk Horde](https://modrinth.com/mod/sculk-horde)
-- [The Flesh That Hates](https://modrinth.com/mod/tfth)
-- [From Another World](https://modrinth.com/mod/from-another-world)
-- [Fungal Infection: Spore](https://modrinth.com/mod/fungal-infectionspore)
+- [Skulk Horde](https://modrinth.com/mod/sculk-horde) [Forge]
+- [The Flesh That Hates](https://modrinth.com/mod/tfth) [Forge]
+- [From Another World](https://modrinth.com/mod/from-another-world) [Fabric/Forge]
+- [Fungal Infection: Spore](https://modrinth.com/mod/fungal-infectionspore) [Forge]
 - [Phayriosis Parasite Infection](https://www.curseforge.com/minecraft/mc-mods/phayriosis-parasite-infection) [Forge]
 - [Abominations Infection](https://www.curseforge.com/minecraft/mc-mods/abominationsinfection) [Forge, MCREATOR]
 - [Prion Infection: Whispers From Within](https://www.curseforge.com/minecraft/mc-mods/prioninfection) [Fabric/Forge]
-- [Withering Away: Reborn](https://www.curseforge.com/minecraft/mc-mods/withering-away-reborn)
+- [Withering Away: Reborn](https://www.curseforge.com/minecraft/mc-mods/withering-away-reborn) [Forge]
 - #### Beneficial Infections:
-- [Moss Overgrowth!](https://www.curseforge.com/minecraft/mc-mods/moss-overgrowth)
+- [Moss Overgrowth!](https://www.curseforge.com/minecraft/mc-mods/moss-overgrowth) [Forge]
 
 ## Environmental Mods:
 - [Alex's Caves](https://modrinth.com/mod/alexs-caves) [Forge]
@@ -39,7 +39,7 @@ Modloader: Forge <br>
 - [Rediscovered](https://modrinth.com/mod/rediscovered) [Forge]
 - [Goblin's Tyranny](https://www.curseforge.com/minecraft/mc-mods/goblins-tyranny) [Forge]
 - [Raxiores](https://www.curseforge.com/minecraft/mc-mods/raxiores-dinosaur-mode) [Forge]
-- [Battle Allays](https://www.curseforge.com/minecraft/mc-mods/battle-allays)
+- [Battle Allays](https://www.curseforge.com/minecraft/mc-mods/battle-allays) [Forge]
 
 ## Progression / customization mods:
 
