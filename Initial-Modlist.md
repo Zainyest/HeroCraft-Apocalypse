@@ -11,7 +11,7 @@ Modloader: Forge <br>
 
 ## Tech Mods:
 - [Create](https://modrinth.com/mod/create) [Fabric/Forge]
-  - [Protection Pixel](https://www.curseforge.com/minecraft/mc-mods/protection-pixel) [Forge]
+  - [Protection Pixel](https://www.curseforge.com/minecraft/mc-mods/protection-pixel)
 - [aleki's Nifty Ships](https://modrinth.com/mod/alekiships) [Forge]
 - [Crypto](https://modrinth.com/mod/crypto/gallery) [Forge]
 
@@ -44,6 +44,7 @@ Modloader: Forge <br>
 
 ## Progression / customization mods:
 - [Dimensional Doors](https://modrinth.com/mod/dimensionaldoors) [Fabric/Forge]
+- [JustLeveling Fork](https://modrinth.com/mod/justleveling-fork) [Forge]
 
 ## QOL mods:
 - [Item Scrapper](https://www.curseforge.com/minecraft/mc-mods/item-scrapper) [Forge]
