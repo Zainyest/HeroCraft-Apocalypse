@@ -11,7 +11,7 @@ Modloader: Forge <br>
 
 ## Tech Mods:
 - [Create](https://modrinth.com/mod/create) [Fabric/Forge]
-  - ADD EVERY SINGLE COMPAT MOD POSSIBLE
+  - [Protection Pixel](https://www.curseforge.com/minecraft/mc-mods/protection-pixel) [Forge]
 - [aleki's Nifty Ships](https://modrinth.com/mod/alekiships) [Forge]
 - [Crypto](https://modrinth.com/mod/crypto/gallery) [Forge]
 
