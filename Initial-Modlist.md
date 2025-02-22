@@ -49,3 +49,4 @@ Modloader: Forge <br>
 ## QOL mods:
 - [Item Scrapper](https://www.curseforge.com/minecraft/mc-mods/item-scrapper) [Forge]
 - [HandToHand](https://modrinth.com/mod/handtohand) [Fabric/Forge]
+- [Corpse, But Better](https://modrinth.com/mod/corpse-but-better) [Forge]
