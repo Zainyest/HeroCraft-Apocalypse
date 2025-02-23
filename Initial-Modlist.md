@@ -45,6 +45,9 @@ Modloader: Forge/Neoforge <br>
   - [Epic Fight - impactful](https://modrinth.com/mod/epic-fight-impactful)
   - [Epic Fight - Sword Soaring](https://modrinth.com/mod/epic-fight-sword-soaring)
   - [Epic Fight Bow Tweak](https://modrinth.com/mod/epic-fight-bow-tweak)
+  - [Weapons of Miracles](https://modrinth.com/mod/weapons-of-miracles)
+- [Souls-Like Universe](https://modrinth.com/mod/souls-like-universe)
+- 
 
 ## Challenge:
 - [Consecration](https://www.curseforge.com/minecraft/mc-mods/consecration) [Fabric/Forge]
@@ -62,6 +65,7 @@ Modloader: Forge/Neoforge <br>
 - [Cold Sweat](https://modrinth.com/mod/cold-sweat) [Forge]
 - [Born in Chaos](https://www.curseforge.com/minecraft/mc-mods/born-in-chaos) [Forge]
 - [Royal Variations](https://legacy.curseforge.com/minecraft/mc-mods/royal-variations) [Forge]
+- [Macabre](https://www.curseforge.com/minecraft/mc-mods/macabre) [Forge]
 - ### Horde / infection:
 - [Skulk Horde](https://modrinth.com/mod/sculk-horde) [Forge]
 - [The Flesh That Hates](https://modrinth.com/mod/tfth) [Forge]
@@ -135,6 +139,7 @@ Modloader: Forge/Neoforge <br>
 - [Dimensional Doors](https://modrinth.com/mod/dimensionaldoors) [Fabric/Forge]
 - [JustLeveling Fork](https://modrinth.com/mod/justleveling-fork) [Forge]
   - [JustLeveling Fork x IronSpell](https://modrinth.com/mod/justleveling-x-ironspell)
+- [Passive Skill Tree](https://www.curseforge.com/minecraft/mc-mods/passive-skill-tree) [Forge]
 - [CraftTweaker](https://modrinth.com/mod/crafttweaker) [Fabric/Forge]
   - [CreateTweaker](https://modrinth.com/mod/createtweaker) [Fabric/Forge]
 - [Realistic Explosion Physics](https://modrinth.com/mod/realistic-explosion-physics) [Forge]
