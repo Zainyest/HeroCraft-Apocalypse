@@ -93,6 +93,10 @@ Modloader: Forge/Neoforge <br>
 - [Aquatica](https://legacy.curseforge.com/minecraft/mc-mods/aquaticamod) [Forge]
 - [Choup's Drakvyrn Mod](https://modrinth.com/mod/choups-drakvyrn-mod) [Forge]
 - [Oh The Biomes We've Gone](https://modrinth.com/mod/oh-the-biomes-weve-gone) [Fabric/Forge]
+- [Quark](https://modrinth.com/mod/quark) [Forge]
+  - [Quark Oddities](https://modrinth.com/mod/quark-oddities)
+  - [Create: Quark Runes](https://modrinth.com/mod/create-quark-runes)
+
 
 ## Progression / customization:
 - [Dimensional Doors](https://modrinth.com/mod/dimensionaldoors) [Fabric/Forge]
@@ -109,6 +113,7 @@ Modloader: Forge/Neoforge <br>
   - [MoreGates Addon](https://modrinth.com/mod/moregates)
   - [Train Compat](https://modrinth.com/mod/sgtrain)
 - [Weeping Angels](https://modrinth.com/mod/weeping-angels) [Fabric/Forge]
+- [Every Compat (Wood Good)](https://modrinth.com/mod/every-compat) [Fabric/Forge]
 
 ## QOL:
 - [Item Scrapper](https://www.curseforge.com/minecraft/mc-mods/item-scrapper) [Forge]
