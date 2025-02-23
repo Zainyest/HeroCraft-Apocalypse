@@ -9,6 +9,13 @@ Modloader: Forge/Neoforge <br>
   - [Spells Gone Wrong](https://modrinth.com/mod/spells-gone-wrong)
 - [Magic Evolved](https://www.curseforge.com/minecraft/mc-mods/magic-evolved) [Forge]
   - Note: Check for instability and make a vanilla-ish texturepack for this
+- [Vampirism](https://modrinth.com/mod/vampirism) [Forge]
+  - [Vampiric Ageing](https://www.curseforge.com/minecraft/mc-mods/vampiric-ageing-a-vampirism-addon)
+  - [Werewolves](https://modrinth.com/mod/werewolves)
+  - [Vampirism Integrations](https://modrinth.com/mod/vampirism-integrations)
+  - [Vampires Need Umbrellas](https://modrinth.com/mod/vampires-need-umbrellas)
+  - [Vampire's Delight](https://modrinth.com/mod/vampires-delight)
+  - [Small Bats](https://modrinth.com/mod/small-bats)
 
 ## Tech:
 - [Create](https://modrinth.com/mod/create) [Fabric/Forge]
@@ -94,6 +101,7 @@ Modloader: Forge/Neoforge <br>
   - [Aether Lost Content](https://modrinth.com/mod/aether-lost-content)
 - [Mutated Items](https://modrinth.com/mod/mutated-items) [Forge]
 - [Ice and Fire](https://modrinth.com/mod/ice-and-fire-dragons) [Forge]
+  - [IAF Patcher](https://modrinth.com/mod/iaf-patcher)
 - [Marium's Soulslike Weaponry](https://modrinth.com/mod/mariums-soulslike-weaponry) [Fabric/Forge]
 - [Immersive Weathering](https://modrinth.com/mod/immersive-weathering) [Fabric/Forge]
 - [Aquatica](https://legacy.curseforge.com/minecraft/mc-mods/aquaticamod) [Forge]
