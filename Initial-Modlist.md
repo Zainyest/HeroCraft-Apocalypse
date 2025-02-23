@@ -13,7 +13,6 @@ Modloader: Forge/Neoforge <br>
 - [Create](https://modrinth.com/mod/create) [Fabric/Forge]
   - [Protection Pixel](https://www.curseforge.com/minecraft/mc-mods/protection-pixel)
 - [aleki's Nifty Ships](https://modrinth.com/mod/alekiships) [Forge]
-- [Crypto](https://modrinth.com/mod/crypto/gallery) [Forge]
 - [Warium](https://www.curseforge.com/minecraft/mc-mods/warium) [Forge]
 
 ## Challenge Mods:
