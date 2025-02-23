@@ -21,6 +21,7 @@ Modloader: Forge/Neoforge <br>
 - [L_Ender's Cataclysm](https://modrinth.com/mod/l_enders-cataclysm) [Forge]
 - [Extinction Z](https://www.curseforge.com/minecraft/mc-mods/extinction-z) [Forge]
 - [experimental_mobs](https://www.curseforge.com/minecraft/mc-mods/experimental-mobs) [Forge]
+  - Note: Needs a custom spawn script and drop tables
 - [The Wilted](https://www.curseforge.com/minecraft/mc-mods/the-root-of-fear) [Forge]
 - [Cracker's Wither Storm](https://modrinth.com/mod/crackers-wither-storm-mod) [Forge]
 - [Crimson Steve's Mutant Mobs](https://modrinth.com/mod/crimson-steves-mutant-mobs) [Forge]
@@ -32,7 +33,7 @@ Modloader: Forge/Neoforge <br>
 - [From Another World](https://modrinth.com/mod/from-another-world) [Fabric/Forge]
 - [Fungal Infection: Spore](https://modrinth.com/mod/fungal-infectionspore) [Forge]
 - [Phayriosis Parasite Infection](https://www.curseforge.com/minecraft/mc-mods/phayriosis-parasite-infection) [Forge]
-- [Abominations Infection](https://www.curseforge.com/minecraft/mc-mods/abominationsinfection) [Forge, MCREATOR]
+- [Abominations Infection](https://www.curseforge.com/minecraft/mc-mods/abominationsinfection) [Forge, MCREATOR (MCreator is generally unstable)]
 - [Prion Infection: Whispers From Within](https://www.curseforge.com/minecraft/mc-mods/prioninfection) [Fabric/Forge]
 - [Withering Away: Reborn](https://www.curseforge.com/minecraft/mc-mods/withering-away-reborn) [Forge]
 - [When Day Breaks](https://www.curseforge.com/minecraft/mc-mods/scp-001-when-day-breaks) [Forge]
