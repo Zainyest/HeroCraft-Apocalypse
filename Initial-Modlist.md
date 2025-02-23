@@ -7,7 +7,7 @@ Modloader: Forge/Neoforge <br>
 - [Iron's Spells 'n Spellbooks](https://modrinth.com/mod/irons-spells-n-spellbooks) [Forge]
   - [T.O Tweaks - Iron's Spells Add-on](https://modrinth.com/mod/to-tweaks-irons-spells)
   - [Spells Gone Wrong](https://modrinth.com/mod/spells-gone-wrong)
-- 
+- [Magic Evolved](https://www.curseforge.com/minecraft/mc-mods/magic-evolved) [Forge]
 
 ## Tech Mods:
 - [Create](https://modrinth.com/mod/create) [Fabric/Forge]
@@ -73,6 +73,7 @@ Modloader: Forge/Neoforge <br>
   - [CreateTweaker](https://modrinth.com/mod/createtweaker) [Fabric/Forge]
 - [Realistic Explosion Physics](https://modrinth.com/mod/realistic-explosion-physics) [Forge]
 - [Spawn Animations](https://modrinth.com/datapack/spawn-animations) [Fabric/Forge]
+- [True Darkness Biomes](https://modrinth.com/mod/true-darkness-biomes) [Forge]
 
 ## QOL mods:
 - [Item Scrapper](https://www.curseforge.com/minecraft/mc-mods/item-scrapper) [Forge]
@@ -88,6 +89,7 @@ Modloader: Forge/Neoforge <br>
 - [Polymorph](https://modrinth.com/mod/polymorph)
 - [Sound Physics Remastered](https://modrinth.com/mod/sound-physics-remastered) [Fabric/Forge]
 - [Overflowing Bars](https://modrinth.com/mod/overflowing-bars) [Fabric/Forge]
+- [Fog Looks Modern Now](https://modrinth.com/mod/fog-looks-modern-now) [Fabric/Forge]
 
 ## Fixes and Performance:
 - 
