@@ -41,13 +41,31 @@ Modloader: Forge/Neoforge <br>
 - [Raxiores](https://www.curseforge.com/minecraft/mc-mods/raxiores-dinosaur-mode) [Forge]
 - [Battle Allays](https://www.curseforge.com/minecraft/mc-mods/battle-allays) [Forge]
 - [Underground Village, Stoneholm](https://modrinth.com/mod/underground-village,-stoneholm) [Fabric/Forge]
+- [MineColonies](https://www.curseforge.com/minecraft/mc-mods/minecolonies) [Forge]
+  - [TownTalk](https://www.curseforge.com/minecraft/mc-mods/towntalk)
+  - [Stylecolonies](https://www.curseforge.com/minecraft/mc-mods/stylecolonies)
+- [Tectonic](https://modrinth.com/datapack/tectonic) [Fabric/Forge]
 
 ## Progression / customization mods:
 - [Dimensional Doors](https://modrinth.com/mod/dimensionaldoors) [Fabric/Forge]
 - [JustLeveling Fork](https://modrinth.com/mod/justleveling-fork) [Forge]
 - [CraftTweaker](https://modrinth.com/mod/crafttweaker) [Fabric/Forge]
+  - [CreateTweaker](https://modrinth.com/mod/createtweaker) [Fabric/Forge]
+- [Realistic Explosion Physics](https://modrinth.com/mod/realistic-explosion-physics) [Forge]
 
 ## QOL mods:
 - [Item Scrapper](https://www.curseforge.com/minecraft/mc-mods/item-scrapper) [Forge]
 - [HandToHand](https://modrinth.com/mod/handtohand) [Fabric/Forge]
 - [Corpse, But Better](https://modrinth.com/mod/corpse-but-better) [Forge]
+- [Crafting Tweaks](https://modrinth.com/mod/crafting-tweaks) [Fabric/Forge]
+- [Controlling](https://modrinth.com/mod/controlling) [Fabric/Forge]
+- [Cut Through](https://modrinth.com/mod/cut-through) [Fabric/Forge]
+- [Distant Horizons](https://modrinth.com/mod/distanthorizons) [Fabric/Forge]
+- [Effect Tooltips](https://modrinth.com/mod/effect-tooltips) [Fabric/Forge]
+- [Enchantment Descriptions](https://modrinth.com/mod/enchantment-descriptions) [Fabric/Forge]
+- [Mouse Tweaks](https://modrinth.com/mod/mouse-tweaks) [Fabric/Forge]
+- [Polymorph](https://modrinth.com/mod/polymorph)
+- [Sound Physics Remastered](https://modrinth.com/mod/sound-physics-remastered) [Fabric/Forge]
+
+## Fixes and Performance:
+- 
