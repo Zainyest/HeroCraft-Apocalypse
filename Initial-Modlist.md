@@ -7,6 +7,10 @@ Modloader: Forge/Neoforge <br>
 - [Iron's Spells 'n Spellbooks](https://modrinth.com/mod/irons-spells-n-spellbooks) [Forge]
   - [T.O Tweaks - Iron's Spells Add-on](https://modrinth.com/mod/to-tweaks-irons-spells)
   - [Spells Gone Wrong](https://modrinth.com/mod/spells-gone-wrong)
+  - [Ice and Fire Spellbooks](https://modrinth.com/mod/ice-and-fire-spellbooks)
+  - [Iron's Spells Delight](https://modrinth.com/mod/irons-spells-delight)
+  - [Epic Fight x Iron's Spells Animation Fix](https://modrinth.com/mod/epic-fight-x-irons-spells-animation-fix)
+  - [Crystal Chronicles](https://modrinth.com/mod/crystal-chronicles)
 - [Magic Evolved](https://www.curseforge.com/minecraft/mc-mods/magic-evolved) [Forge]
   - Note: Check for instability and make a vanilla-ish texturepack for this
 - [Vampirism](https://modrinth.com/mod/vampirism) [Forge]
@@ -116,6 +120,7 @@ Modloader: Forge/Neoforge <br>
 ## Progression / customization:
 - [Dimensional Doors](https://modrinth.com/mod/dimensionaldoors) [Fabric/Forge]
 - [JustLeveling Fork](https://modrinth.com/mod/justleveling-fork) [Forge]
+  - [JustLeveling Fork x IronSpell](https://modrinth.com/mod/justleveling-x-ironspell)
 - [CraftTweaker](https://modrinth.com/mod/crafttweaker) [Fabric/Forge]
   - [CreateTweaker](https://modrinth.com/mod/createtweaker) [Fabric/Forge]
 - [Realistic Explosion Physics](https://modrinth.com/mod/realistic-explosion-physics) [Forge]
