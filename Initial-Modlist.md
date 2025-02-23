@@ -39,6 +39,7 @@ Modloader: Forge/Neoforge <br>
 - [Mutant Iceologer](https://modrinth.com/mod/mutant-iceologer-mod) [Forge]
 - [Mutant Monsters](https://modrinth.com/mod/mutant-monsters) [Fabric/Forge]
 - [From The Shadows Reborn](https://legacy.curseforge.com/minecraft/mc-mods/from-the-shadow-reborn) [Forge]
+- [ArPhEx](https://modrinth.com/mod/arphex) [Forge]
 - ### Horde / infection:
 - [Skulk Horde](https://modrinth.com/mod/sculk-horde) [Forge]
 - [The Flesh That Hates](https://modrinth.com/mod/tfth) [Forge]
