@@ -3,20 +3,30 @@ Versions: <br>
 MC: 1.20.1 <br>
 Modloader: Forge/Neoforge <br>
 
-## Magic Mods:
+## Magic:
 - [Iron's Spells 'n Spellbooks](https://modrinth.com/mod/irons-spells-n-spellbooks) [Forge]
   - [T.O Tweaks - Iron's Spells Add-on](https://modrinth.com/mod/to-tweaks-irons-spells)
   - [Spells Gone Wrong](https://modrinth.com/mod/spells-gone-wrong)
 - [Magic Evolved](https://www.curseforge.com/minecraft/mc-mods/magic-evolved) [Forge]
   - Note: Check for instability and make a vanilla-ish texturepack for this
 
-## Tech Mods:
+## Tech:
 - [Create](https://modrinth.com/mod/create) [Fabric/Forge]
   - [Protection Pixel](https://www.curseforge.com/minecraft/mc-mods/protection-pixel)
 - [aleki's Nifty Ships](https://modrinth.com/mod/alekiships) [Forge]
 - [Warium](https://www.curseforge.com/minecraft/mc-mods/warium) [Forge]
 
-## Challenge Mods:
+## Martial / Combat:
+- [Celestisynth](https://modrinth.com/mod/celestisynth) [Forge]
+- [Parcool](https://modrinth.com/mod/parcool) [Forge]
+  - [Epic Compat](https://modrinth.com/mod/epic-compat-parcool)
+- [SlashBlade:Resharped](https://modrinth.com/mod/slashblade-resharped) [Forge]
+  - [SlashBladeJapaneseAddonPack](https://modrinth.com/mod/sjap)
+  - [Slash Illager](https://modrinth.com/mod/slash-illager)
+- [Terramity](https://modrinth.com/mod/terramity) [Forge]
+  - [Terramity Experimental](https://modrinth.com/mod/terramityexperimentalitems)
+
+## Challenge:
 - [Consecration](https://www.curseforge.com/minecraft/mc-mods/consecration) [Fabric/Forge]
 - [L_Ender's Cataclysm](https://modrinth.com/mod/l_enders-cataclysm) [Forge]
 - [Extinction Z](https://www.curseforge.com/minecraft/mc-mods/extinction-z) [Forge]
@@ -27,7 +37,8 @@ Modloader: Forge/Neoforge <br>
 - [Crimson Steve's Mutant Mobs](https://modrinth.com/mod/crimson-steves-mutant-mobs) [Forge]
 - [Mutant Iceologer](https://modrinth.com/mod/mutant-iceologer-mod) [Forge]
 - [Mutant Monsters](https://modrinth.com/mod/mutant-monsters) [Fabric/Forge]
-- ### Horde / infection mods:
+- [From The Shadows Reborn](https://legacy.curseforge.com/minecraft/mc-mods/from-the-shadow-reborn) [Forge]
+- ### Horde / infection:
 - [Skulk Horde](https://modrinth.com/mod/sculk-horde) [Forge]
 - [The Flesh That Hates](https://modrinth.com/mod/tfth) [Forge]
 - [From Another World](https://modrinth.com/mod/from-another-world) [Fabric/Forge]
@@ -40,7 +51,7 @@ Modloader: Forge/Neoforge <br>
 - #### Beneficial Infections:
 - [Moss Overgrowth!](https://www.curseforge.com/minecraft/mc-mods/moss-overgrowth) [Forge]
 
-## Environmental Mods:
+## Environmental:
 - [Alex's Caves](https://modrinth.com/mod/alexs-caves) [Forge]
 - [Alex's Mobs](https://modrinth.com/mod/alexs-mobs) [Forge]
 - [Creature Compendium](https://modrinth.com/mod/creature-compendium) [Forge]
@@ -67,8 +78,11 @@ Modloader: Forge/Neoforge <br>
 - [Mutated Items](https://modrinth.com/mod/mutated-items) [Forge]
 - [Ice and Fire](https://modrinth.com/mod/ice-and-fire-dragons) [Forge]
 - [Marium's Soulslike Weaponry](https://modrinth.com/mod/mariums-soulslike-weaponry) [Fabric/Forge]
+- [Immersive Weathering](https://modrinth.com/mod/immersive-weathering) [Fabric/Forge]
+- [Aquatica](https://legacy.curseforge.com/minecraft/mc-mods/aquaticamod) [Forge]
+- [Choup's Drakvyrn Mod](https://modrinth.com/mod/choups-drakvyrn-mod) [Forge]
 
-## Progression / customization mods:
+## Progression / customization:
 - [Dimensional Doors](https://modrinth.com/mod/dimensionaldoors) [Fabric/Forge]
 - [JustLeveling Fork](https://modrinth.com/mod/justleveling-fork) [Forge]
 - [CraftTweaker](https://modrinth.com/mod/crafttweaker) [Fabric/Forge]
@@ -76,8 +90,14 @@ Modloader: Forge/Neoforge <br>
 - [Realistic Explosion Physics](https://modrinth.com/mod/realistic-explosion-physics) [Forge]
 - [Spawn Animations](https://modrinth.com/datapack/spawn-animations) [Fabric/Forge]
 - [True Darkness Biomes](https://modrinth.com/mod/true-darkness-biomes) [Forge]
+- [Simple Clouds](https://modrinth.com/mod/simple-clouds) [Forge]
+- [Immersive Portals for (Neo)Forge](https://modrinth.com/mod/immersive-portals-neoforge) [Forge]
+  - [Immersive Infinity](https://modrinth.com/mod/immersive-infinity)
+- [Stargate Journey](https://modrinth.com/mod/sgjourney) [Forge]
+  - [MoreGates Addon](https://modrinth.com/mod/moregates)
+  - [Train Compat](https://modrinth.com/mod/sgtrain)
 
-## QOL mods:
+## QOL:
 - [Item Scrapper](https://www.curseforge.com/minecraft/mc-mods/item-scrapper) [Forge]
 - [HandToHand](https://modrinth.com/mod/handtohand) [Fabric/Forge]
 - [Corpse, But Better](https://modrinth.com/mod/corpse-but-better) [Forge]
@@ -92,6 +112,7 @@ Modloader: Forge/Neoforge <br>
 - [Sound Physics Remastered](https://modrinth.com/mod/sound-physics-remastered) [Fabric/Forge]
 - [Overflowing Bars](https://modrinth.com/mod/overflowing-bars) [Fabric/Forge]
 - [Fog Looks Modern Now](https://modrinth.com/mod/fog-looks-modern-now) [Fabric/Forge]
+- [Stellar View](https://modrinth.com/mod/stellarview) [Forge]
 
 ## Fixes and Performance:
 - 
