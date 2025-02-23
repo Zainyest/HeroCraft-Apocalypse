@@ -1,7 +1,7 @@
 # Modlist:
 Versions: <br>
 MC: 1.20.1 <br>
-Modloader: Forge <br>
+Modloader: Forge/Neoforge <br>
 
 ## Magic Mods:
 - [Iron's Spells 'n Spellbooks](https://modrinth.com/mod/irons-spells-n-spellbooks) [Forge]
@@ -14,6 +14,7 @@ Modloader: Forge <br>
   - [Protection Pixel](https://www.curseforge.com/minecraft/mc-mods/protection-pixel)
 - [aleki's Nifty Ships](https://modrinth.com/mod/alekiships) [Forge]
 - [Crypto](https://modrinth.com/mod/crypto/gallery) [Forge]
+- [Warium](https://www.curseforge.com/minecraft/mc-mods/warium) [Forge]
 
 ## Challenge Mods:
 - [Consecration](https://www.curseforge.com/minecraft/mc-mods/consecration) [Fabric/Forge]
