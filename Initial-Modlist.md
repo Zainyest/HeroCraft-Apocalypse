@@ -8,6 +8,7 @@ Modloader: Forge/Neoforge <br>
   - [T.O Tweaks - Iron's Spells Add-on](https://modrinth.com/mod/to-tweaks-irons-spells)
   - [Spells Gone Wrong](https://modrinth.com/mod/spells-gone-wrong)
 - [Magic Evolved](https://www.curseforge.com/minecraft/mc-mods/magic-evolved) [Forge]
+  - Note: Check for instability and make a vanilla-ish texturepack for this
 
 ## Tech Mods:
 - [Create](https://modrinth.com/mod/create) [Fabric/Forge]
