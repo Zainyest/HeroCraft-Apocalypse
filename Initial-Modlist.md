@@ -25,6 +25,7 @@ Modloader: Forge/Neoforge <br>
   - [Slash Illager](https://modrinth.com/mod/slash-illager)
 - [Terramity](https://modrinth.com/mod/terramity) [Forge]
   - [Terramity Experimental](https://modrinth.com/mod/terramityexperimentalitems)
+- [Samurai Dynasty](https://modrinth.com/mod/epic-samurais) [Forge]
 
 ## Challenge:
 - [Consecration](https://www.curseforge.com/minecraft/mc-mods/consecration) [Fabric/Forge]
@@ -49,6 +50,7 @@ Modloader: Forge/Neoforge <br>
 - [Withering Away: Reborn](https://www.curseforge.com/minecraft/mc-mods/withering-away-reborn) [Forge]
 - [When Day Breaks](https://www.curseforge.com/minecraft/mc-mods/scp-001-when-day-breaks) [Forge]
 - [Dawn of the Flood](https://modrinth.com/mod/dawn-of-the-flood) [Forge]
+- [The Hordes](https://modrinth.com/mod/the-hordes) [Forge]
 - #### Beneficial Infections:
 - [Moss Overgrowth!](https://www.curseforge.com/minecraft/mc-mods/moss-overgrowth) [Forge]
 
@@ -82,6 +84,7 @@ Modloader: Forge/Neoforge <br>
 - [Immersive Weathering](https://modrinth.com/mod/immersive-weathering) [Fabric/Forge]
 - [Aquatica](https://legacy.curseforge.com/minecraft/mc-mods/aquaticamod) [Forge]
 - [Choup's Drakvyrn Mod](https://modrinth.com/mod/choups-drakvyrn-mod) [Forge]
+- [Oh The Biomes We've Gone](https://modrinth.com/mod/oh-the-biomes-weve-gone) [Fabric/Forge]
 
 ## Progression / customization:
 - [Dimensional Doors](https://modrinth.com/mod/dimensionaldoors) [Fabric/Forge]
