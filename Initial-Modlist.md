@@ -45,6 +45,7 @@ Modloader: Forge/Neoforge <br>
 ## Progression / customization mods:
 - [Dimensional Doors](https://modrinth.com/mod/dimensionaldoors) [Fabric/Forge]
 - [JustLeveling Fork](https://modrinth.com/mod/justleveling-fork) [Forge]
+- [CraftTweaker](https://modrinth.com/mod/crafttweaker) [Fabric/Forge]
 
 ## QOL mods:
 - [Item Scrapper](https://www.curseforge.com/minecraft/mc-mods/item-scrapper) [Forge]
