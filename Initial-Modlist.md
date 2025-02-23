@@ -48,6 +48,7 @@ Modloader: Forge/Neoforge <br>
 - [Prion Infection: Whispers From Within](https://www.curseforge.com/minecraft/mc-mods/prioninfection) [Fabric/Forge]
 - [Withering Away: Reborn](https://www.curseforge.com/minecraft/mc-mods/withering-away-reborn) [Forge]
 - [When Day Breaks](https://www.curseforge.com/minecraft/mc-mods/scp-001-when-day-breaks) [Forge]
+- [Dawn of the Flood](https://modrinth.com/mod/dawn-of-the-flood) [Forge]
 - #### Beneficial Infections:
 - [Moss Overgrowth!](https://www.curseforge.com/minecraft/mc-mods/moss-overgrowth) [Forge]
 
@@ -96,6 +97,7 @@ Modloader: Forge/Neoforge <br>
 - [Stargate Journey](https://modrinth.com/mod/sgjourney) [Forge]
   - [MoreGates Addon](https://modrinth.com/mod/moregates)
   - [Train Compat](https://modrinth.com/mod/sgtrain)
+- [Weeping Angels](https://modrinth.com/mod/weeping-angels) [Fabric/Forge]
 
 ## QOL:
 - [Item Scrapper](https://www.curseforge.com/minecraft/mc-mods/item-scrapper) [Forge]
@@ -113,6 +115,7 @@ Modloader: Forge/Neoforge <br>
 - [Overflowing Bars](https://modrinth.com/mod/overflowing-bars) [Fabric/Forge]
 - [Fog Looks Modern Now](https://modrinth.com/mod/fog-looks-modern-now) [Fabric/Forge]
 - [Stellar View](https://modrinth.com/mod/stellarview) [Forge]
+- [JEI](https://modrinth.com/mod/jei) [Forge]
 
 ## Fixes and Performance:
 - 
