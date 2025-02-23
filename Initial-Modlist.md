@@ -67,11 +67,18 @@ Modloader: Forge/Neoforge <br>
 - [MineColonies](https://www.curseforge.com/minecraft/mc-mods/minecolonies) [Forge]
   - [TownTalk](https://www.curseforge.com/minecraft/mc-mods/towntalk)
   - [Stylecolonies](https://www.curseforge.com/minecraft/mc-mods/stylecolonies)
+  - [Minecolonies Tweaks](https://www.curseforge.com/minecraft/mc-mods/minecolonies-tweaks)
+  - [Minecolonies Compatibility](https://www.curseforge.com/minecraft/mc-mods/minecolonies-compatibility)
+  - [Mincolonies for ComputerCraft](https://www.curseforge.com/minecraft/mc-mods/minecolonies-for-computercraft)
+  - [Colony Curios](https://www.curseforge.com/minecraft/mc-mods/colony-curios)
+  - [The Hordes Addon](https://www.curseforge.com/minecraft/mc-mods/minecolonies-hordes)
+  - [Towering Townscape](https://www.curseforge.com/minecraft/mc-mods/towering-townscape-style-pack-for-minecolonies)
 - [Tectonic](https://modrinth.com/datapack/tectonic) [Fabric/Forge]
 - [Nyf's Spiders](https://modrinth.com/mod/nyfs-spiders) [Fabric/Forge]
 - [Deeper and Darker](https://modrinth.com/mod/deeperdarker) [Fabric/Forge]
 - [Illager Invasion](https://modrinth.com/mod/illager-invasion) [Fabric/Forge]
 - [Enderman Overhaul](https://modrinth.com/mod/enderman-overhaul) [Fabric/Forge]
+- [Creeper Overhaul](https://modrinth.com/mod/creeper-overhaul) [Fabric/Forge]
 - [The Aether](https://modrinth.com/mod/aether) [Forge]
   - [Aether Redux](https://modrinth.com/mod/the-aether-redux)
   - [Twilight Aether](https://modrinth.com/mod/twilight-aether)
@@ -119,6 +126,7 @@ Modloader: Forge/Neoforge <br>
 - [Fog Looks Modern Now](https://modrinth.com/mod/fog-looks-modern-now) [Fabric/Forge]
 - [Stellar View](https://modrinth.com/mod/stellarview) [Forge]
 - [JEI](https://modrinth.com/mod/jei) [Forge]
+- [Better Advancements](https://modrinth.com/mod/better-advancements) [Fabric/Forge]
 
 ## Fixes and Performance:
 - 
