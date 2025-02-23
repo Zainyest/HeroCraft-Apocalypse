@@ -39,6 +39,12 @@ Modloader: Forge/Neoforge <br>
 - [Terramity](https://modrinth.com/mod/terramity) [Forge]
   - [Terramity Experimental](https://modrinth.com/mod/terramityexperimentalitems)
 - [Samurai Dynasty](https://modrinth.com/mod/epic-samurais) [Forge]
+- [Epic Fight](https://modrinth.com/mod/epic-fight) [Forge]
+  - [Epic Fight & Other Mods Weapons Compabilities](https://modrinth.com/mod/efmcompat)
+  - [Epic Fight - Battle Arts](https://modrinth.com/mod/battle_arts)
+  - [Epic Fight - impactful](https://modrinth.com/mod/epic-fight-impactful)
+  - [Epic Fight - Sword Soaring](https://modrinth.com/mod/epic-fight-sword-soaring)
+  - [Epic Fight Bow Tweak](https://modrinth.com/mod/epic-fight-bow-tweak)
 
 ## Challenge:
 - [Consecration](https://www.curseforge.com/minecraft/mc-mods/consecration) [Fabric/Forge]
@@ -115,6 +121,14 @@ Modloader: Forge/Neoforge <br>
   - [Quark Oddities](https://modrinth.com/mod/quark-oddities)
   - [Create: Quark Runes](https://modrinth.com/mod/create-quark-runes)
 - [Butchery](https://modrinth.com/mod/butchery) [Forge]
+- [Mowzie's Mobs](https://modrinth.com/mod/mowzies-mobs) [Forge]
+   - [Mowzie's Delight](https://modrinth.com/mod/mowzies-delight)
+   - [Mowzie's Cataclysm](https://modrinth.com/mod/mowzies-cataclysm)
+- [Farmer's Delight](https://modrinth.com/mod/farmers-delight) [Forge]
+  - [Miner's Delight](https://modrinth.com/mod/miners-delight)
+- [Supplementaries](https://modrinth.com/mod/supplementaries) [Fabric/Forge]
+  - [Supplementaries Squared](https://modrinth.com/mod/supplementaries-squared)
+- 
 
 
 ## Progression / customization:
