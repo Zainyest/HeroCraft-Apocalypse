@@ -7,7 +7,7 @@ Modloader: Forge/Neoforge <br>
 - [Iron's Spells 'n Spellbooks](https://modrinth.com/mod/irons-spells-n-spellbooks) [Forge]
   - [T.O Tweaks - Iron's Spells Add-on](https://modrinth.com/mod/to-tweaks-irons-spells)
   - [Spells Gone Wrong](https://modrinth.com/mod/spells-gone-wrong)
-- [True | Prime Piece](https://www.curseforge.com/minecraft/mc-mods/true-prime-piece) [Forge]
+- 
 
 ## Tech Mods:
 - [Create](https://modrinth.com/mod/create) [Fabric/Forge]
@@ -35,6 +35,7 @@ Modloader: Forge/Neoforge <br>
 
 ## Environmental Mods:
 - [Alex's Caves](https://modrinth.com/mod/alexs-caves) [Forge]
+- [Alex's Mobs](https://modrinth.com/mod/alexs-mobs) [Forge]
 - [Creature Compendium](https://modrinth.com/mod/creature-compendium) [Forge]
 - [Rediscovered](https://modrinth.com/mod/rediscovered) [Forge]
 - [Goblin's Tyranny](https://www.curseforge.com/minecraft/mc-mods/goblins-tyranny) [Forge]
@@ -45,6 +46,9 @@ Modloader: Forge/Neoforge <br>
   - [TownTalk](https://www.curseforge.com/minecraft/mc-mods/towntalk)
   - [Stylecolonies](https://www.curseforge.com/minecraft/mc-mods/stylecolonies)
 - [Tectonic](https://modrinth.com/datapack/tectonic) [Fabric/Forge]
+- [Nyf's Spiders](https://modrinth.com/mod/nyfs-spiders) [Fabric/Forge]
+- [Deeper and Darker](https://modrinth.com/mod/deeperdarker) [Fabric/Forge]
+- [Illager Invasion](https://modrinth.com/mod/illager-invasion) [Fabric/Forge]
 
 ## Progression / customization mods:
 - [Dimensional Doors](https://modrinth.com/mod/dimensionaldoors) [Fabric/Forge]
@@ -52,6 +56,7 @@ Modloader: Forge/Neoforge <br>
 - [CraftTweaker](https://modrinth.com/mod/crafttweaker) [Fabric/Forge]
   - [CreateTweaker](https://modrinth.com/mod/createtweaker) [Fabric/Forge]
 - [Realistic Explosion Physics](https://modrinth.com/mod/realistic-explosion-physics) [Forge]
+- [Spawn Animations](https://modrinth.com/datapack/spawn-animations) [Fabric/Forge]
 
 ## QOL mods:
 - [Item Scrapper](https://www.curseforge.com/minecraft/mc-mods/item-scrapper) [Forge]
@@ -66,6 +71,7 @@ Modloader: Forge/Neoforge <br>
 - [Mouse Tweaks](https://modrinth.com/mod/mouse-tweaks) [Fabric/Forge]
 - [Polymorph](https://modrinth.com/mod/polymorph)
 - [Sound Physics Remastered](https://modrinth.com/mod/sound-physics-remastered) [Fabric/Forge]
+- [Overflowing Bars](https://modrinth.com/mod/overflowing-bars) [Fabric/Forge]
 
 ## Fixes and Performance:
 - 
