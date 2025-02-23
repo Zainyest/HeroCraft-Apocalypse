@@ -15,6 +15,8 @@ Modloader: Forge/Neoforge <br>
   - [Protection Pixel](https://www.curseforge.com/minecraft/mc-mods/protection-pixel)
 - [aleki's Nifty Ships](https://modrinth.com/mod/alekiships) [Forge]
 - [Warium](https://www.curseforge.com/minecraft/mc-mods/warium) [Forge]
+- [Biomancy](https://modrinth.com/mod/biomancy) [Forge]
+  - [BioButcher's Delight](https://modrinth.com/datapack/biobutchers-delight) [Forge]
 
 ## Martial / Combat:
 - [Celestisynth](https://modrinth.com/mod/celestisynth) [Forge]
@@ -40,6 +42,9 @@ Modloader: Forge/Neoforge <br>
 - [Mutant Monsters](https://modrinth.com/mod/mutant-monsters) [Fabric/Forge]
 - [From The Shadows Reborn](https://legacy.curseforge.com/minecraft/mc-mods/from-the-shadow-reborn) [Forge]
 - [ArPhEx](https://modrinth.com/mod/arphex) [Forge]
+- [Cold Sweat](https://modrinth.com/mod/cold-sweat) [Forge]
+- [Born in Chaos](https://www.curseforge.com/minecraft/mc-mods/born-in-chaos) [Forge]
+- [Royal Variations](https://legacy.curseforge.com/minecraft/mc-mods/royal-variations) [Forge]
 - ### Horde / infection:
 - [Skulk Horde](https://modrinth.com/mod/sculk-horde) [Forge]
 - [The Flesh That Hates](https://modrinth.com/mod/tfth) [Forge]
@@ -52,6 +57,7 @@ Modloader: Forge/Neoforge <br>
 - [When Day Breaks](https://www.curseforge.com/minecraft/mc-mods/scp-001-when-day-breaks) [Forge]
 - [Dawn of the Flood](https://modrinth.com/mod/dawn-of-the-flood) [Forge]
 - [The Hordes](https://modrinth.com/mod/the-hordes) [Forge]
+  - Note: Check other mods for zombies to add to config
 - #### Beneficial Infections:
 - [Moss Overgrowth!](https://www.curseforge.com/minecraft/mc-mods/moss-overgrowth) [Forge]
 
@@ -96,6 +102,7 @@ Modloader: Forge/Neoforge <br>
 - [Quark](https://modrinth.com/mod/quark) [Forge]
   - [Quark Oddities](https://modrinth.com/mod/quark-oddities)
   - [Create: Quark Runes](https://modrinth.com/mod/create-quark-runes)
+- [Butchery](https://modrinth.com/mod/butchery) [Forge]
 
 
 ## Progression / customization:
