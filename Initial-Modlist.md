@@ -24,6 +24,18 @@ Modloader: Forge/Neoforge <br>
 ## Tech:
 - [Create](https://modrinth.com/mod/create) [Fabric/Forge]
   - [Protection Pixel](https://www.curseforge.com/minecraft/mc-mods/protection-pixel)
+- [Valkyrien Skies](https://modrinth.com/mod/valkyrien-skies) [Fabric/Forge]
+  - NOTE: Quite Unstable and prone to incompats, remove likely
+  - [Eureka!](https://modrinth.com/mod/eureka)
+  - [Create: Interactive](https://modrinth.com/mod/interactive)
+  - [Create: Clockwork](https://modrinth.com/mod/create-clockwork)
+    - [Clockwork: Atlas](https://modrinth.com/mod/clockwork-atlas)
+  - [VMod](https://modrinth.com/mod/vmod)
+  - [CC:VS](https://modrinth.com/mod/cc-vs)
+  - [Valkyrien Pirates](https://modrinth.com/mod/valkyrien-pirates)
+  - [Starlance](https://modrinth.com/mod/starlance)
+    - [Cosmic Horizons](https://modrinth.com/mod/cosmic-horizons-cosmos)
+  - [Valkyrien Relogs](https://modrinth.com/mod/valkyrien-relogs)
 - [aleki's Nifty Ships](https://modrinth.com/mod/alekiships) [Forge]
 - [Warium](https://www.curseforge.com/minecraft/mc-mods/warium) [Forge]
 - [Biomancy](https://modrinth.com/mod/biomancy) [Forge]
