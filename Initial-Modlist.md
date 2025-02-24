@@ -120,6 +120,7 @@ Modloader: Forge/Neoforge <br>
   - [IAF Patcher](https://modrinth.com/mod/iaf-patcher)
 - [Marium's Soulslike Weaponry](https://modrinth.com/mod/mariums-soulslike-weaponry) [Fabric/Forge]
 - [Immersive Weathering](https://modrinth.com/mod/immersive-weathering) [Fabric/Forge]
+- [Burnt](https://modrinth.com/mod/burnt) [Forge]
 - [Aquatica](https://legacy.curseforge.com/minecraft/mc-mods/aquaticamod) [Forge]
 - [Choup's Drakvyrn Mod](https://modrinth.com/mod/choups-drakvyrn-mod) [Forge]
 - [Oh The Biomes We've Gone](https://modrinth.com/mod/oh-the-biomes-weve-gone) [Fabric/Forge]
@@ -140,6 +141,9 @@ Modloader: Forge/Neoforge <br>
 - [JustLeveling Fork](https://modrinth.com/mod/justleveling-fork) [Forge]
   - [JustLeveling Fork x IronSpell](https://modrinth.com/mod/justleveling-x-ironspell)
 - [Passive Skill Tree](https://www.curseforge.com/minecraft/mc-mods/passive-skill-tree) [Forge]
+  - [Passive Skill Tree Additions](https://www.curseforge.com/minecraft/mc-mods/passive-skill-tree-additions)
+  - [Passive Skill Tree Mob Kill Points](https://www.curseforge.com/minecraft/mc-mods/skilltreemkp)
+  - [Passive Skill Tree Stage](https://www.curseforge.com/minecraft/mc-mods/passive-skill-tree-stage)
 - [CraftTweaker](https://modrinth.com/mod/crafttweaker) [Fabric/Forge]
   - [CreateTweaker](https://modrinth.com/mod/createtweaker) [Fabric/Forge]
 - [Realistic Explosion Physics](https://modrinth.com/mod/realistic-explosion-physics) [Forge]
