@@ -90,6 +90,8 @@ Modloader: Forge/Neoforge <br>
 - [Rediscovered](https://modrinth.com/mod/rediscovered) [Forge]
 - [Goblin's Tyranny](https://www.curseforge.com/minecraft/mc-mods/goblins-tyranny) [Forge]
 - [Raxiores](https://www.curseforge.com/minecraft/mc-mods/raxiores-dinosaur-mode) [Forge]
+- [The Dawn Era](https://www.curseforge.com/minecraft/mc-mods/the-dawn-era) [Forge]
+  - [The Dawn Era Delight](https://modrinth.com/mod/the-dawn-era-delight/changelog)
 - [Battle Allays](https://www.curseforge.com/minecraft/mc-mods/battle-allays) [Forge]
 - [Underground Village, Stoneholm](https://modrinth.com/mod/underground-village,-stoneholm) [Fabric/Forge]
 - [MineColonies](https://www.curseforge.com/minecraft/mc-mods/minecolonies) [Forge]
@@ -132,8 +134,6 @@ Modloader: Forge/Neoforge <br>
   - [Miner's Delight](https://modrinth.com/mod/miners-delight)
 - [Supplementaries](https://modrinth.com/mod/supplementaries) [Fabric/Forge]
   - [Supplementaries Squared](https://modrinth.com/mod/supplementaries-squared)
-- 
-
 
 ## Progression / customization:
 - [Dimensional Doors](https://modrinth.com/mod/dimensionaldoors) [Fabric/Forge]
@@ -152,7 +152,6 @@ Modloader: Forge/Neoforge <br>
   - [MoreGates Addon](https://modrinth.com/mod/moregates)
   - [Train Compat](https://modrinth.com/mod/sgtrain)
 - [Weeping Angels](https://modrinth.com/mod/weeping-angels) [Fabric/Forge]
-- [Every Compat (Wood Good)](https://modrinth.com/mod/every-compat) [Fabric/Forge]
 
 ## QOL:
 - [Item Scrapper](https://www.curseforge.com/minecraft/mc-mods/item-scrapper) [Forge]
@@ -172,6 +171,8 @@ Modloader: Forge/Neoforge <br>
 - [Stellar View](https://modrinth.com/mod/stellarview) [Forge]
 - [JEI](https://modrinth.com/mod/jei) [Forge]
 - [Better Advancements](https://modrinth.com/mod/better-advancements) [Fabric/Forge]
+- [Legendary Tooltips](https://modrinth.com/mod/legendary-tooltips) [Fabric/Forge]
 
 ## Fixes and Performance:
-- 
+- [Almost Unified](https://modrinth.com/mod/almost-unified) [Fabric/Forge]
+- [Every Compat (Wood Good)](https://modrinth.com/mod/every-compat) [Fabric/Forge]
