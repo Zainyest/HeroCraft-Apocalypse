@@ -235,3 +235,9 @@ Modloader: Forge/Neoforge <br>
 ## Fixes and Performance:
 - [Almost Unified](https://modrinth.com/mod/almost-unified) [Fabric/Forge]
 - [Every Compat (Wood Good)](https://modrinth.com/mod/every-compat) [Fabric/Forge]
+- [Oculus](https://modrinth.com/mod/oculus) [Forge]
+  - [Iris/Oculus Flywheel Compat](https://modrinth.com/mod/iris-flw-compat)
+  - [Iris/Oculus GeckoLib Compat](https://modrinth.com/mod/geckoanimfix)
+- [Embeddium](https://modrinth.com/mod/embeddium) [Faric/Forge]
+- [Entity Culling](https://modrinth.com/mod/entityculling) [Fabric/Forge]
+- [Adaptive Performance Tweaks](https://modrinth.com/mod/adaptive-performance-tweaks) [Forge]
