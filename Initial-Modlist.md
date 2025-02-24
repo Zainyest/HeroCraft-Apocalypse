@@ -24,6 +24,45 @@ Modloader: Forge/Neoforge <br>
 ## Tech:
 - [Create](https://modrinth.com/mod/create) [Fabric/Forge]
   - [Protection Pixel](https://www.curseforge.com/minecraft/mc-mods/protection-pixel)
+  - [Steam n Rails](https://modrinth.com/mod/create-steam-n-rails)
+  - [Slice & Dice](https://modrinth.com/mod/slice-and-dice)
+  - [Copycats+](https://modrinth.com/mod/copycats)
+  - [TaCZ](https://modrinth.com/mod/timeless-and-classics-zero)
+    - NOTE: Check for gunpacks and balance
+  - [Armory](https://modrinth.com/mod/create-armory)
+  - [Big Cannons](https://modrinth.com/mod/create-big-cannons)
+    - [CBC: Nuclear](https://modrinth.com/mod/cbc-nuclear)
+    - [CBC: Advanced Technologies](https://modrinth.com/mod/create-big-cannons-advanced-technologies)
+  - [Goggles](https://modrinth.com/mod/create-goggles)
+  - [CC: Tweaked](https://modrinth.com/mod/cc-tweaked)
+    - NOTE: Change configs to remove some turtle functionality (they can be a bit strong)
+    - [CC:C Bridge](https://modrinth.com/mod/cccbridge)
+    - [Advanced Peripherals](https://modrinth.com/mod/advancedperipherals)
+  - [Enchantment Industry](https://modrinth.com/mod/create-enchantment-industry)
+  - [Dreams & Desires](https://modrinth.com/mod/create-dreams-and-desires)
+  - [Central Kitchen](https://modrinth.com/mod/create-central-kitchen)
+  - [Connected](https://modrinth.com/mod/create-connected)
+  - [Misc and Things](https://modrinth.com/mod/create-misc-and-things)
+  - [Vintage Improvements](https://modrinth.com/mod/create-vintage-improvements)
+  - [Mechanical Spawner](https://modrinth.com/mod/create-mechanical-spawner)
+    - Note: check for customization
+  - [Tweaked Controllers](https://modrinth.com/mod/create-tweaked-controllers)
+  - [Garnished](https://modrinth.com/mod/create-garnished)
+  - [Track Map](https://modrinth.com/mod/create-track-map)
+  - [Liquid Fuel](https://modrinth.com/mod/create-liquid-fuel)
+    - NOTE: Might be redundant
+  - [Dynamic Lights](https://modrinth.com/mod/create-dynamic-lights)
+  - [Destroy](https://modrinth.com/mod/destroy)
+  - [Wizardry](https://modrinth.com/mod/create-wizardry)
+  - [Dynamic Village](https://modrinth.com/mod/dynamic-village)
+  - [Addon Compatibility](https://modrinth.com/mod/createaddoncompatibility)
+  - [Aquatic Ambitions](https://modrinth.com/mod/create-aquatic-ambitions)
+  - [Petrol's Parts](https://modrinth.com/mod/petrols-parts)
+  - [Enchantable Machinery](https://modrinth.com/mod/create-enchantable-machinery)
+  - [Tank Defenses](https://modrinth.com/mod/create-tank-defenses)
+  - [Radars](https://modrinth.com/mod/create-radars)
+  - [Nuclear](https://modrinth.com/mod/createnuclear/gallery)
+
 - [Valkyrien Skies](https://modrinth.com/mod/valkyrien-skies) [Fabric/Forge]
   - NOTE: Quite Unstable and prone to incompats, remove likely
   - [Eureka!](https://modrinth.com/mod/eureka)
@@ -36,10 +75,13 @@ Modloader: Forge/Neoforge <br>
   - [Starlance](https://modrinth.com/mod/starlance)
     - [Cosmic Horizons](https://modrinth.com/mod/cosmic-horizons-cosmos)
   - [Valkyrien Relogs](https://modrinth.com/mod/valkyrien-relogs)
+  - [Trackwork](https://modrinth.com/mod/trackwork)
+  - [VS Crumbles](https://modrinth.com/mod/vs-crumbles)
 - [aleki's Nifty Ships](https://modrinth.com/mod/alekiships) [Forge]
 - [Warium](https://www.curseforge.com/minecraft/mc-mods/warium) [Forge]
 - [Biomancy](https://modrinth.com/mod/biomancy) [Forge]
   - [BioButcher's Delight](https://modrinth.com/datapack/biobutchers-delight) [Forge]
+  - [Create: Bio-Factory](https://modrinth.com/mod/biofactory)
 
 ## Martial / Combat:
 - [Celestisynth](https://modrinth.com/mod/celestisynth) [Forge]
@@ -59,7 +101,6 @@ Modloader: Forge/Neoforge <br>
   - [Epic Fight Bow Tweak](https://modrinth.com/mod/epic-fight-bow-tweak)
   - [Weapons of Miracles](https://modrinth.com/mod/weapons-of-miracles)
 - [Souls-Like Universe](https://modrinth.com/mod/souls-like-universe)
-- 
 
 ## Challenge:
 - [Consecration](https://www.curseforge.com/minecraft/mc-mods/consecration) [Fabric/Forge]
@@ -75,6 +116,7 @@ Modloader: Forge/Neoforge <br>
 - [From The Shadows Reborn](https://legacy.curseforge.com/minecraft/mc-mods/from-the-shadow-reborn) [Forge]
 - [ArPhEx](https://modrinth.com/mod/arphex) [Forge]
 - [Cold Sweat](https://modrinth.com/mod/cold-sweat) [Forge]
+  - [Create: Cold Sweat](https://modrinth.com/mod/create-cold-sweat)
 - [Born in Chaos](https://www.curseforge.com/minecraft/mc-mods/born-in-chaos) [Forge]
 - [Royal Variations](https://legacy.curseforge.com/minecraft/mc-mods/royal-variations) [Forge]
 - [Macabre](https://www.curseforge.com/minecraft/mc-mods/macabre) [Forge]
@@ -168,6 +210,7 @@ Modloader: Forge/Neoforge <br>
   - [MoreGates Addon](https://modrinth.com/mod/moregates)
   - [Train Compat](https://modrinth.com/mod/sgtrain)
 - [Weeping Angels](https://modrinth.com/mod/weeping-angels) [Fabric/Forge]
+- [Create: Teleporters](https://modrinth.com/mod/create-teleporters) [Forge]
 
 ## QOL:
 - [Item Scrapper](https://www.curseforge.com/minecraft/mc-mods/item-scrapper) [Forge]
