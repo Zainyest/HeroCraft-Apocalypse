@@ -79,6 +79,9 @@ Modloader: Forge/Neoforge <br>
   - [VS Crumbles](https://modrinth.com/mod/vs-crumbles)
 - [aleki's Nifty Ships](https://modrinth.com/mod/alekiships) [Forge]
 - [Warium](https://www.curseforge.com/minecraft/mc-mods/warium) [Forge]
+- [Pomkot's Mechs](https://modrinth.com/mod/pomkots-mechs) [Fabric/Forge]
+  - [Pomkot's Mechs Extension Pack](https://modrinth.com/mod/pomkots-mechs-extension-pack)
+  - NOTE: Both need datapacks for spawn mechanics and recipes
 - [Biomancy](https://modrinth.com/mod/biomancy) [Forge]
   - [BioButcher's Delight](https://modrinth.com/datapack/biobutchers-delight) [Forge]
   - [Create: Bio-Factory](https://modrinth.com/mod/biofactory)
