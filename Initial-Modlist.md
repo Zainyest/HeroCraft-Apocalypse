@@ -160,7 +160,6 @@ Modloader: Forge/Neoforge <br>
 - [Nyf's Spiders](https://modrinth.com/mod/nyfs-spiders) [Fabric/Forge]
 - [Deeper and Darker](https://modrinth.com/mod/deeperdarker) [Fabric/Forge]
 - [Illager Invasion](https://modrinth.com/mod/illager-invasion) [Fabric/Forge]
-- [Illager Additions](https://www.curseforge.com/minecraft/mc-mods/illager-additions) [Forge]
 - [Enderman Overhaul](https://modrinth.com/mod/enderman-overhaul) [Fabric/Forge]
 - [Creeper Overhaul](https://modrinth.com/mod/creeper-overhaul) [Fabric/Forge]
 - [The Aether](https://modrinth.com/mod/aether) [Forge]
@@ -277,6 +276,7 @@ Modloader: Forge/Neoforge <br>
 
 - [Garnished](https://modrinth.com/mod/create-garnished)
 - [Aquatic Ambitions](https://modrinth.com/mod/create-aquatic-ambitions)
+- [Illager Additions](https://www.curseforge.com/minecraft/mc-mods/illager-additions) [Forge]
 
 - [Phayriosis Parasite Infection](https://www.curseforge.com/minecraft/mc-mods/phayriosis-parasite-infection) [Forge]
 - [Abominations Infection](https://www.curseforge.com/minecraft/mc-mods/abominationsinfection) [Forge, MCREATOR (MCreator is generally unstable)]
