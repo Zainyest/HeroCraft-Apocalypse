@@ -69,7 +69,6 @@ Modloader: Forge/Neoforge <br>
   - [Wizardry](https://modrinth.com/mod/create-wizardry)
   - [Dynamic Village](https://modrinth.com/mod/dynamic-village)
   - [Addon Compatibility](https://modrinth.com/mod/createaddoncompatibility)
-  - [Aquatic Ambitions](https://modrinth.com/mod/create-aquatic-ambitions)
   - [Petrol's Parts](https://modrinth.com/mod/petrols-parts)
   - [Enchantable Machinery](https://modrinth.com/mod/create-enchantable-machinery)
   - [Tank Defenses](https://modrinth.com/mod/create-tank-defenses)
@@ -276,4 +275,4 @@ Modloader: Forge/Neoforge <br>
   - NOTE: Check for gunpacks and balance
 - [Warium](https://www.curseforge.com/minecraft/mc-mods/warium) [Forge]
 - [Garnished](https://modrinth.com/mod/create-garnished)
-
+- [Aquatic Ambitions](https://modrinth.com/mod/create-aquatic-ambitions)
