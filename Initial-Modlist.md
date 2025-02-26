@@ -13,6 +13,24 @@ Modloader: Forge/Neoforge <br>
   - [Crystal Chronicles](https://modrinth.com/mod/crystal-chronicles)
 - [Magic Evolved](https://www.curseforge.com/minecraft/mc-mods/magic-evolved) [Forge]
   - Note: Check for instability and make a vanilla-ish texturepack for this
+- [Ars Nouveau](https://modrinth.com/mod/ars-nouveau) [Forge]
+  - [Ars Elemental](https://www.curseforge.com/minecraft/mc-mods/ars-elemental)
+  - [Ars Technica](https://www.curseforge.com/minecraft/mc-mods/ars-technica)
+  - [Too Many Glyphs](https://www.curseforge.com/minecraft/mc-mods/too-many-glyphs)
+  - [Mana Unification](https://www.curseforge.com/minecraft/mc-mods/mana-unification)
+  - [Tome Of Blood Rebirth](https://modrinth.com/mod/tome-of-blood-rebirth)
+    - [Blood Magic](https://modrinth.com/mod/blood-magic)
+    - [Blood Magic Delight](https://modrinth.com/mod/blood-magic-delight)
+  - [Ars Creo](https://modrinth.com/mod/ars-creo)
+  - [Epic Knights'n'Mages](https://modrinth.com/mod/epic-knightsnmages)
+  - [Hex-Ars Linker](https://modrinth.com/mod/hex-ars-linker)
+    - [Hex Casting](https://modrinth.com/mod/hex-casting)
+    - [Hexxy Sky](https://modrinth.com/mod/hexsky)
+    - [Dynamic Trees Hexcasting](https://modrinth.com/mod/dynamic-trees-hexcasting)
+  - [Ars Additions](https://modrinth.com/mod/ars-additions)
+  - [Ars Artifice](https://modrinth.com/mod/ars-artifice)
+  - [Ars Controle](https://modrinth.com/mod/ars-controle)
+  - [Ars Nouveau Dungeons](https://modrinth.com/mod/ars-nouveau-dungeons)
 - [Vampirism](https://modrinth.com/mod/vampirism) [Forge]
   - [Vampiric Ageing](https://www.curseforge.com/minecraft/mc-mods/vampiric-ageing-a-vampirism-addon)
   - [Werewolves](https://modrinth.com/mod/werewolves)
