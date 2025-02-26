@@ -182,6 +182,7 @@ Modloader: Forge/Neoforge <br>
 - [Nyf's Spiders](https://modrinth.com/mod/nyfs-spiders) [Fabric/Forge]
 - [Deeper and Darker](https://modrinth.com/mod/deeperdarker) [Fabric/Forge]
 - [Illager Invasion](https://modrinth.com/mod/illager-invasion) [Fabric/Forge]
+- [Illager Additions](https://www.curseforge.com/minecraft/mc-mods/illager-additions) [Forge]
 - [Enderman Overhaul](https://modrinth.com/mod/enderman-overhaul) [Fabric/Forge]
 - [Creeper Overhaul](https://modrinth.com/mod/creeper-overhaul) [Fabric/Forge]
 - [The Aether](https://modrinth.com/mod/aether) [Forge]
@@ -232,6 +233,11 @@ Modloader: Forge/Neoforge <br>
   - [Train Compat](https://modrinth.com/mod/sgtrain)
 - [Weeping Angels](https://modrinth.com/mod/weeping-angels) [Fabric/Forge]
 - [Create: Teleporters](https://modrinth.com/mod/create-teleporters) [Forge]
+- [FTB Quests](https://www.curseforge.com/minecraft/mc-mods/ftb-quests-forge) [Forge]
+  - [FTB Quests Optimizer](https://www.curseforge.com/minecraft/mc-mods/ftb-quests-optimizer)
+  - [Create Questing](https://www.curseforge.com/minecraft/mc-mods/create-questing)
+  - [Quests Kill Task Tweaks](https://www.curseforge.com/minecraft/mc-mods/quests-kill-task-tweaks)
+  - [Extra Quests](https://www.curseforge.com/minecraft/mc-mods/extraquests)
 
 ## QOL:
 - [Item Scrapper](https://www.curseforge.com/minecraft/mc-mods/item-scrapper) [Forge]
@@ -250,8 +256,15 @@ Modloader: Forge/Neoforge <br>
 - [Fog Looks Modern Now](https://modrinth.com/mod/fog-looks-modern-now) [Fabric/Forge]
 - [Stellar View](https://modrinth.com/mod/stellarview) [Forge]
 - [JEI](https://modrinth.com/mod/jei) [Forge]
+  - [JEI Integration](https://www.curseforge.com/minecraft/mc-mods/jei-integration)
+  - [Just Enough Resources](https://modrinth.com/mod/just-enough-resources-jer)
 - [Better Advancements](https://modrinth.com/mod/better-advancements) [Fabric/Forge]
 - [Legendary Tooltips](https://modrinth.com/mod/legendary-tooltips) [Fabric/Forge]
+- [Advancement Plaques](https://modrinth.com/mod/advancement-plaques) [Fabric/Forge]
+- [Equipment Compare](https://modrinth.com/mod/equipment-compare) [Fabric/Forge]
+- [Item Borders](https://modrinth.com/mod/item-borders) [Fabric/Forge]
+- [Item Highlighter](https://modrinth.com/mod/item-highlighter) Fabric/Forge
+- 
 
 ## Fixes and Performance:
 - [Almost Unified](https://modrinth.com/mod/almost-unified) [Fabric/Forge]
