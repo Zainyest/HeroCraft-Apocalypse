@@ -113,6 +113,7 @@ Modloader: Forge/Neoforge <br>
 
 ## Challenge:
 - [Consecration](https://www.curseforge.com/minecraft/mc-mods/consecration) [Fabric/Forge]
+  - NOTE: CONFIGURE (Cop0per is antibacterium)
 - [L_Ender's Cataclysm](https://modrinth.com/mod/l_enders-cataclysm) [Forge]
 - [Extinction Z](https://www.curseforge.com/minecraft/mc-mods/extinction-z) [Forge]
 - [experimental_mobs](https://www.curseforge.com/minecraft/mc-mods/experimental-mobs) [Forge]
