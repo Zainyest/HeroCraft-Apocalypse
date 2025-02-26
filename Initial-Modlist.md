@@ -121,7 +121,6 @@ Modloader: Forge/Neoforge <br>
 - [Crimson Steve's Mutant Mobs](https://modrinth.com/mod/crimson-steves-mutant-mobs) [Forge]
 - [Mutant Iceologer](https://modrinth.com/mod/mutant-iceologer-mod) [Forge]
 - [Mutant Monsters](https://modrinth.com/mod/mutant-monsters) [Fabric/Forge]
-- [ArPhEx](https://modrinth.com/mod/arphex) [Forge]
 - [Cold Sweat](https://modrinth.com/mod/cold-sweat) [Forge]
   - [Create: Cold Sweat](https://modrinth.com/mod/create-cold-sweat)
 - [Born in Chaos](https://www.curseforge.com/minecraft/mc-mods/born-in-chaos) [Forge]
@@ -275,6 +274,7 @@ Modloader: Forge/Neoforge <br>
   - [Terramity Experimental](https://modrinth.com/mod/terramityexperimentalitems)
 - [Extinction Z](https://www.curseforge.com/minecraft/mc-mods/extinction-z) [Forge]
 
+- [ArPhEx](https://modrinth.com/mod/arphex) [Forge]
 - [From The Shadows Reborn](https://legacy.curseforge.com/minecraft/mc-mods/from-the-shadow-reborn) [Forge]
 - [The Wilted](https://www.curseforge.com/minecraft/mc-mods/the-root-of-fear) [Forge]
 
