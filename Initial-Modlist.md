@@ -124,6 +124,7 @@ Modloader: Forge/Neoforge <br>
 - [Cold Sweat](https://modrinth.com/mod/cold-sweat) [Forge]
   - [Create: Cold Sweat](https://modrinth.com/mod/create-cold-sweat)
 - [Born in Chaos](https://www.curseforge.com/minecraft/mc-mods/born-in-chaos) [Forge]
+- Note: Check other mods for zombies to add to config
 - [Macabre](https://www.curseforge.com/minecraft/mc-mods/macabre) [Forge]
 - ### Horde / infection:
 - [Skulk Horde](https://modrinth.com/mod/sculk-horde) [Forge]
