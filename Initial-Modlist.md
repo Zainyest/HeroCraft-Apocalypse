@@ -61,7 +61,6 @@ Modloader: Forge/Neoforge <br>
   - [Mechanical Spawner](https://modrinth.com/mod/create-mechanical-spawner)
     - Note: check for customization
   - [Tweaked Controllers](https://modrinth.com/mod/create-tweaked-controllers)
-  - [Garnished](https://modrinth.com/mod/create-garnished)
   - [Track Map](https://modrinth.com/mod/create-track-map)
   - [Liquid Fuel](https://modrinth.com/mod/create-liquid-fuel)
     - NOTE: Might be redundant
@@ -276,3 +275,5 @@ Modloader: Forge/Neoforge <br>
 - [TaCZ](https://modrinth.com/mod/timeless-and-classics-zero)
   - NOTE: Check for gunpacks and balance
 - [Warium](https://www.curseforge.com/minecraft/mc-mods/warium) [Forge]
+- [Garnished](https://modrinth.com/mod/create-garnished)
+
