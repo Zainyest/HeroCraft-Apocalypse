@@ -24,7 +24,6 @@ Modloader: Forge/Neoforge <br>
   - [Epic Knights'n'Mages](https://modrinth.com/mod/epic-knightsnmages)
   - [Hex-Ars Linker](https://modrinth.com/mod/hex-ars-linker)
     - [Hex Casting](https://modrinth.com/mod/hex-casting)
-    - [Hexxy Sky](https://modrinth.com/mod/hexsky)
     - [Dynamic Trees Hexcasting](https://modrinth.com/mod/dynamic-trees-hexcasting)
   - [Ars Additions](https://modrinth.com/mod/ars-additions)
   - [Ars Artifice](https://modrinth.com/mod/ars-artifice)
@@ -104,7 +103,6 @@ Modloader: Forge/Neoforge <br>
 - [Samurai Dynasty](https://modrinth.com/mod/epic-samurais) [Forge]
 - [Epic Fight](https://modrinth.com/mod/epic-fight) [Forge]
   - [Epic Fight & Other Mods Weapons Compabilities](https://modrinth.com/mod/efmcompat)
-  - [Epic Fight - Battle Arts](https://modrinth.com/mod/battle_arts)
   - [Epic Fight - impactful](https://modrinth.com/mod/epic-fight-impactful)
   - [Epic Fight - Sword Soaring](https://modrinth.com/mod/epic-fight-sword-soaring)
   - [Epic Fight Bow Tweak](https://modrinth.com/mod/epic-fight-bow-tweak)
@@ -279,4 +277,8 @@ Modloader: Forge/Neoforge <br>
 - [Abominations Infection](https://www.curseforge.com/minecraft/mc-mods/abominationsinfection) [Forge, MCREATOR (MCreator is generally unstable)]
 
 - [Spawn Animations](https://modrinth.com/datapack/spawn-animations) [Fabric/Forge]
+
+## Incompatible
+- [Hexxy Sky](https://modrinth.com/mod/hexsky)
+- [Epic Fight - Battle Arts](https://modrinth.com/mod/battle_arts)
 
