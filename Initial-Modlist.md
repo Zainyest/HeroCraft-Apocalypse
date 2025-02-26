@@ -146,7 +146,6 @@ Modloader: Forge/Neoforge <br>
 - [Creatures and Beasts](https://modrinth.com/mod/creatures-and-beasts) [Forge]
 - [The Dawn Era](https://www.curseforge.com/minecraft/mc-mods/the-dawn-era) [Forge]
   - [The Dawn Era Delight](https://modrinth.com/mod/the-dawn-era-delight/changelog)
-- [Battle Allays](https://www.curseforge.com/minecraft/mc-mods/battle-allays) [Forge]
 - [Underground Village, Stoneholm](https://modrinth.com/mod/underground-village,-stoneholm) [Fabric/Forge]
 - [MineColonies](https://www.curseforge.com/minecraft/mc-mods/minecolonies) [Forge]
   - [TownTalk](https://www.curseforge.com/minecraft/mc-mods/towntalk)
