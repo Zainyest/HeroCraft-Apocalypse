@@ -101,8 +101,6 @@ Modloader: Forge/Neoforge <br>
 - [SlashBlade:Resharped](https://modrinth.com/mod/slashblade-resharped) [Forge]
   - [SlashBladeJapaneseAddonPack](https://modrinth.com/mod/sjap)
   - [Slash Illager](https://modrinth.com/mod/slash-illager)
-- [Terramity](https://modrinth.com/mod/terramity) [Forge]
-  - [Terramity Experimental](https://modrinth.com/mod/terramityexperimentalitems)
 - [Samurai Dynasty](https://modrinth.com/mod/epic-samurais) [Forge]
 - [Epic Fight](https://modrinth.com/mod/epic-fight) [Forge]
   - [Epic Fight & Other Mods Weapons Compabilities](https://modrinth.com/mod/efmcompat)
@@ -275,8 +273,8 @@ Modloader: Forge/Neoforge <br>
 - [Pomkot's Mechs](https://modrinth.com/mod/pomkots-mechs) [Fabric/Forge]
   - [Pomkot's Mechs Extension Pack](https://modrinth.com/mod/pomkots-mechs-extension-pack)
   - NOTE: Both need datapacks for spawn mechanics and recipes
-
-
+- [Terramity](https://modrinth.com/mod/terramity) [Forge]
+  - [Terramity Experimental](https://modrinth.com/mod/terramityexperimentalitems)
 
 - [Garnished](https://modrinth.com/mod/create-garnished)
 - [Aquatic Ambitions](https://modrinth.com/mod/create-aquatic-ambitions)
