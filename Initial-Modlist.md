@@ -188,7 +188,6 @@ Modloader: Forge/Neoforge <br>
   - [Miner's Delight](https://modrinth.com/mod/miners-delight)
 - [Spice Of Life](https://modrinth.com/mod/foodvariations) [Forge]
 - [Supplementaries](https://modrinth.com/mod/supplementaries) [Fabric/Forge]
-  - [Supplementaries Squared](https://modrinth.com/mod/supplementaries-squared)
 
 ## Progression / customization:
 - [Dimensional Doors](https://modrinth.com/mod/dimensionaldoors) [Fabric/Forge]
