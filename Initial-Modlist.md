@@ -131,8 +131,6 @@ Modloader: Forge/Neoforge <br>
 - [The Flesh That Hates](https://modrinth.com/mod/tfth) [Forge]
 - [From Another World](https://modrinth.com/mod/from-another-world) [Fabric/Forge]
 - [Fungal Infection: Spore](https://modrinth.com/mod/fungal-infectionspore) [Forge]
-- [Phayriosis Parasite Infection](https://www.curseforge.com/minecraft/mc-mods/phayriosis-parasite-infection) [Forge]
-- [Abominations Infection](https://www.curseforge.com/minecraft/mc-mods/abominationsinfection) [Forge, MCREATOR (MCreator is generally unstable)]
 - [Prion Infection: Whispers From Within](https://www.curseforge.com/minecraft/mc-mods/prioninfection) [Fabric/Forge]
 - [Withering Away: Reborn](https://www.curseforge.com/minecraft/mc-mods/withering-away-reborn) [Forge]
 - [When Day Breaks](https://www.curseforge.com/minecraft/mc-mods/scp-001-when-day-breaks) [Forge]
@@ -282,4 +280,7 @@ Modloader: Forge/Neoforge <br>
 
 - [Garnished](https://modrinth.com/mod/create-garnished)
 - [Aquatic Ambitions](https://modrinth.com/mod/create-aquatic-ambitions)
+
+- [Phayriosis Parasite Infection](https://www.curseforge.com/minecraft/mc-mods/phayriosis-parasite-infection) [Forge]
+- [Abominations Infection](https://www.curseforge.com/minecraft/mc-mods/abominationsinfection) [Forge, MCREATOR (MCreator is generally unstable)]
 
