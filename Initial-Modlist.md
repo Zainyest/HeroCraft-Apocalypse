@@ -36,6 +36,7 @@ Modloader: Forge/Neoforge <br>
   - [Vampires Need Umbrellas](https://modrinth.com/mod/vampires-need-umbrellas)
   - [Vampire's Delight](https://modrinth.com/mod/vampires-delight)
   - [Small Bats](https://modrinth.com/mod/small-bats)
+  - [Guide API-VP](https://modrinth.com/mod/guide-api)
 
 ## Tech:
 - [Create](https://modrinth.com/mod/create) [Fabric/Forge]
