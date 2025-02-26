@@ -143,7 +143,6 @@ Modloader: Forge/Neoforge <br>
 ## Environmental:
 - [Alex's Caves](https://modrinth.com/mod/alexs-caves) [Forge]
 - [Alex's Mobs](https://modrinth.com/mod/alexs-mobs) [Forge]
-- [Creature Compendium](https://modrinth.com/mod/creature-compendium) [Forge]
 - [Creatures and Beasts](https://modrinth.com/mod/creatures-and-beasts) [Forge]
 - [Rediscovered](https://modrinth.com/mod/rediscovered) [Forge]
 - [Goblin's Tyranny](https://www.curseforge.com/minecraft/mc-mods/goblins-tyranny) [Forge]
