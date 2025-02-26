@@ -275,6 +275,7 @@ Modloader: Forge/Neoforge <br>
   - NOTE: Both need datapacks for spawn mechanics and recipes
 - [Terramity](https://modrinth.com/mod/terramity) [Forge]
   - [Terramity Experimental](https://modrinth.com/mod/terramityexperimentalitems)
+- [DR STONE](https://modrinth.com/mod/dr.-stone-kingdom-of-science)
 
 - [Garnished](https://modrinth.com/mod/create-garnished)
 - [Aquatic Ambitions](https://modrinth.com/mod/create-aquatic-ambitions)
