@@ -28,7 +28,6 @@ Modloader: Forge/Neoforge <br>
   - [Ars Additions](https://modrinth.com/mod/ars-additions)
   - [Ars Artifice](https://modrinth.com/mod/ars-artifice)
   - [Ars Controle](https://modrinth.com/mod/ars-controle)
-  - [Ars Nouveau Dungeons](https://modrinth.com/mod/ars-nouveau-dungeons)
 - [Vampirism](https://modrinth.com/mod/vampirism) [Forge]
   - [Vampiric Ageing](https://www.curseforge.com/minecraft/mc-mods/vampiric-ageing-a-vampirism-addon)
   - [Werewolves](https://modrinth.com/mod/werewolves)
@@ -262,7 +261,6 @@ Modloader: Forge/Neoforge <br>
   - [Terramity Experimental](https://modrinth.com/mod/terramityexperimentalitems)
 - [Extinction Z](https://www.curseforge.com/minecraft/mc-mods/extinction-z) [Forge]
 - [Goblin's Tyranny](https://www.curseforge.com/minecraft/mc-mods/goblins-tyranny) [Forge]
-
 
 - [ArPhEx](https://modrinth.com/mod/arphex) [Forge]
 - [From The Shadows Reborn](https://legacy.curseforge.com/minecraft/mc-mods/from-the-shadow-reborn) [Forge]
