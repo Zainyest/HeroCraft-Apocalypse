@@ -144,7 +144,6 @@ Modloader: Forge/Neoforge <br>
 - [Alex's Caves](https://modrinth.com/mod/alexs-caves) [Forge]
 - [Alex's Mobs](https://modrinth.com/mod/alexs-mobs) [Forge]
 - [Creatures and Beasts](https://modrinth.com/mod/creatures-and-beasts) [Forge]
-- [Rediscovered](https://modrinth.com/mod/rediscovered) [Forge]
 - [Goblin's Tyranny](https://www.curseforge.com/minecraft/mc-mods/goblins-tyranny) [Forge]
 - [Raxiores](https://www.curseforge.com/minecraft/mc-mods/raxiores-dinosaur-mode) [Forge]
 - [The Dawn Era](https://www.curseforge.com/minecraft/mc-mods/the-dawn-era) [Forge]
