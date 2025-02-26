@@ -208,6 +208,7 @@ Modloader: Forge/Neoforge <br>
    - [Mowzie's Cataclysm](https://modrinth.com/mod/mowzies-cataclysm)
 - [Farmer's Delight](https://modrinth.com/mod/farmers-delight) [Forge]
   - [Miner's Delight](https://modrinth.com/mod/miners-delight)
+- [Spice Of Life](https://modrinth.com/mod/foodvariations) [Forge]
 - [Supplementaries](https://modrinth.com/mod/supplementaries) [Fabric/Forge]
   - [Supplementaries Squared](https://modrinth.com/mod/supplementaries-squared)
 
