@@ -89,9 +89,6 @@ Modloader: Forge/Neoforge <br>
   - [Trackwork](https://modrinth.com/mod/trackwork)
   - [VS Crumbles](https://modrinth.com/mod/vs-crumbles)
 - [aleki's Nifty Ships](https://modrinth.com/mod/alekiships) [Forge]
-- [Pomkot's Mechs](https://modrinth.com/mod/pomkots-mechs) [Fabric/Forge]
-  - [Pomkot's Mechs Extension Pack](https://modrinth.com/mod/pomkots-mechs-extension-pack)
-  - NOTE: Both need datapacks for spawn mechanics and recipes
 - [Biomancy](https://modrinth.com/mod/biomancy) [Forge]
   - [BioButcher's Delight](https://modrinth.com/datapack/biobutchers-delight) [Forge]
   - [Create: Bio-Factory](https://modrinth.com/mod/biofactory)
@@ -270,8 +267,15 @@ Modloader: Forge/Neoforge <br>
 - [Adaptive Performance Tweaks](https://modrinth.com/mod/adaptive-performance-tweaks) [Forge]
 
 ## Considering
+### Tech Dimension
 - [TaCZ](https://modrinth.com/mod/timeless-and-classics-zero)
   - NOTE: Check for gunpacks and balance
 - [Warium](https://www.curseforge.com/minecraft/mc-mods/warium) [Forge]
+- [Pomkot's Mechs](https://modrinth.com/mod/pomkots-mechs) [Fabric/Forge]
+  - [Pomkot's Mechs Extension Pack](https://modrinth.com/mod/pomkots-mechs-extension-pack)
+  - NOTE: Both need datapacks for spawn mechanics and recipes
+
+
+
 - [Garnished](https://modrinth.com/mod/create-garnished)
 - [Aquatic Ambitions](https://modrinth.com/mod/create-aquatic-ambitions)
