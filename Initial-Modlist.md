@@ -199,7 +199,6 @@ Modloader: Forge/Neoforge <br>
   - [Passive Skill Tree Stage](https://www.curseforge.com/minecraft/mc-mods/passive-skill-tree-stage)
 - [CraftTweaker](https://modrinth.com/mod/crafttweaker) [Fabric/Forge]
   - [CreateTweaker](https://modrinth.com/mod/createtweaker) [Fabric/Forge]
-- [Realistic Explosion Physics](https://modrinth.com/mod/realistic-explosion-physics) [Forge]
 - [Spawn Animations](https://modrinth.com/datapack/spawn-animations) [Fabric/Forge]
 - [True Darkness Biomes](https://modrinth.com/mod/true-darkness-biomes) [Forge]
 - [Simple Clouds](https://modrinth.com/mod/simple-clouds) [Forge]
