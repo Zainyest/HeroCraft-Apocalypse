@@ -144,7 +144,6 @@ Modloader: Forge/Neoforge <br>
 - [Alex's Caves](https://modrinth.com/mod/alexs-caves) [Forge]
 - [Alex's Mobs](https://modrinth.com/mod/alexs-mobs) [Forge]
 - [Creatures and Beasts](https://modrinth.com/mod/creatures-and-beasts) [Forge]
-- [Goblin's Tyranny](https://www.curseforge.com/minecraft/mc-mods/goblins-tyranny) [Forge]
 - [Raxiores](https://www.curseforge.com/minecraft/mc-mods/raxiores-dinosaur-mode) [Forge]
 - [The Dawn Era](https://www.curseforge.com/minecraft/mc-mods/the-dawn-era) [Forge]
   - [The Dawn Era Delight](https://modrinth.com/mod/the-dawn-era-delight/changelog)
@@ -269,6 +268,8 @@ Modloader: Forge/Neoforge <br>
 - [Terramity](https://modrinth.com/mod/terramity) [Forge]
   - [Terramity Experimental](https://modrinth.com/mod/terramityexperimentalitems)
 - [Extinction Z](https://www.curseforge.com/minecraft/mc-mods/extinction-z) [Forge]
+- [Goblin's Tyranny](https://www.curseforge.com/minecraft/mc-mods/goblins-tyranny) [Forge]
+
 
 - [ArPhEx](https://modrinth.com/mod/arphex) [Forge]
 - [From The Shadows Reborn](https://legacy.curseforge.com/minecraft/mc-mods/from-the-shadow-reborn) [Forge]
