@@ -71,7 +71,6 @@ Modloader: Forge/Neoforge <br>
   - [Addon Compatibility](https://modrinth.com/mod/createaddoncompatibility)
   - [Petrol's Parts](https://modrinth.com/mod/petrols-parts)
   - [Enchantable Machinery](https://modrinth.com/mod/create-enchantable-machinery)
-  - [Tank Defenses](https://modrinth.com/mod/create-tank-defenses)
   - [Radars](https://modrinth.com/mod/create-radars)
   - [Nuclear](https://modrinth.com/mod/createnuclear/gallery)
 
