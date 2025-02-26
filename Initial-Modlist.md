@@ -10,7 +10,6 @@ Modloader: Forge/Neoforge <br>
   - [Ice and Fire Spellbooks](https://modrinth.com/mod/ice-and-fire-spellbooks)
   - [Iron's Spells Delight](https://modrinth.com/mod/irons-spells-delight)
   - [Epic Fight x Iron's Spells Animation Fix](https://modrinth.com/mod/epic-fight-x-irons-spells-animation-fix)
-  - [Crystal Chronicles](https://modrinth.com/mod/crystal-chronicles)
 - [Magic Evolved](https://www.curseforge.com/minecraft/mc-mods/magic-evolved) [Forge]
   - Note: Check for instability and make a vanilla-ish texturepack for this
 - [Ars Nouveau](https://modrinth.com/mod/ars-nouveau) [Forge]
