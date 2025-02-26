@@ -44,9 +44,6 @@ Modloader: Forge/Neoforge <br>
   - [Steam n Rails](https://modrinth.com/mod/create-steam-n-rails)
   - [Slice & Dice](https://modrinth.com/mod/slice-and-dice)
   - [Copycats+](https://modrinth.com/mod/copycats)
-  - [TaCZ](https://modrinth.com/mod/timeless-and-classics-zero)
-    - NOTE: Check for gunpacks and balance
-  - [Armory](https://modrinth.com/mod/create-armory)
   - [Big Cannons](https://modrinth.com/mod/create-big-cannons)
     - [CBC: Nuclear](https://modrinth.com/mod/cbc-nuclear)
     - [CBC: Advanced Technologies](https://modrinth.com/mod/create-big-cannons-advanced-technologies)
@@ -95,7 +92,6 @@ Modloader: Forge/Neoforge <br>
   - [Trackwork](https://modrinth.com/mod/trackwork)
   - [VS Crumbles](https://modrinth.com/mod/vs-crumbles)
 - [aleki's Nifty Ships](https://modrinth.com/mod/alekiships) [Forge]
-- [Warium](https://www.curseforge.com/minecraft/mc-mods/warium) [Forge]
 - [Pomkot's Mechs](https://modrinth.com/mod/pomkots-mechs) [Fabric/Forge]
   - [Pomkot's Mechs Extension Pack](https://modrinth.com/mod/pomkots-mechs-extension-pack)
   - NOTE: Both need datapacks for spawn mechanics and recipes
@@ -275,3 +271,8 @@ Modloader: Forge/Neoforge <br>
 - [Embeddium](https://modrinth.com/mod/embeddium) [Faric/Forge]
 - [Entity Culling](https://modrinth.com/mod/entityculling) [Fabric/Forge]
 - [Adaptive Performance Tweaks](https://modrinth.com/mod/adaptive-performance-tweaks) [Forge]
+
+## Considering
+- [TaCZ](https://modrinth.com/mod/timeless-and-classics-zero)
+  - NOTE: Check for gunpacks and balance
+- [Warium](https://www.curseforge.com/minecraft/mc-mods/warium) [Forge]
