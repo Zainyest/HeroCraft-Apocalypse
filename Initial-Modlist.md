@@ -115,7 +115,6 @@ Modloader: Forge/Neoforge <br>
 - [Consecration](https://www.curseforge.com/minecraft/mc-mods/consecration) [Fabric/Forge]
   - NOTE: CONFIGURE (Cop0per is antibacterium)
 - [L_Ender's Cataclysm](https://modrinth.com/mod/l_enders-cataclysm) [Forge]
-- [Extinction Z](https://www.curseforge.com/minecraft/mc-mods/extinction-z) [Forge]
 - [experimental_mobs](https://www.curseforge.com/minecraft/mc-mods/experimental-mobs) [Forge]
   - Note: Needs a custom spawn script and drop tables
 - [The Wilted](https://www.curseforge.com/minecraft/mc-mods/the-root-of-fear) [Forge]
@@ -276,6 +275,8 @@ Modloader: Forge/Neoforge <br>
   - NOTE: Both need datapacks for spawn mechanics and recipes
 - [Terramity](https://modrinth.com/mod/terramity) [Forge]
   - [Terramity Experimental](https://modrinth.com/mod/terramityexperimentalitems)
+- [Extinction Z](https://www.curseforge.com/minecraft/mc-mods/extinction-z) [Forge]
+
 - [DR STONE](https://modrinth.com/mod/dr.-stone-kingdom-of-science)
 
 - [Garnished](https://modrinth.com/mod/create-garnished)
