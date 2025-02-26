@@ -95,6 +95,7 @@ Modloader: Forge/Neoforge <br>
 
 ## Martial / Combat:
 - [Celestisynth](https://modrinth.com/mod/celestisynth) [Forge]
+  - NOTE: CHECK EPIC FIGHT COMPAT
 - [Parcool](https://modrinth.com/mod/parcool) [Forge]
   - [Epic Compat](https://modrinth.com/mod/epic-compat-parcool)
 - [SlashBlade:Resharped](https://modrinth.com/mod/slashblade-resharped) [Forge]
