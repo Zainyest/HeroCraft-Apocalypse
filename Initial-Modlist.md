@@ -199,7 +199,6 @@ Modloader: Forge/Neoforge <br>
   - [Passive Skill Tree Stage](https://www.curseforge.com/minecraft/mc-mods/passive-skill-tree-stage)
 - [CraftTweaker](https://modrinth.com/mod/crafttweaker) [Fabric/Forge]
   - [CreateTweaker](https://modrinth.com/mod/createtweaker) [Fabric/Forge]
-- [Spawn Animations](https://modrinth.com/datapack/spawn-animations) [Fabric/Forge]
 - [True Darkness Biomes](https://modrinth.com/mod/true-darkness-biomes) [Forge]
 - [Simple Clouds](https://modrinth.com/mod/simple-clouds) [Forge]
 - [Immersive Portals for (Neo)Forge](https://modrinth.com/mod/immersive-portals-neoforge) [Forge]
@@ -278,4 +277,6 @@ Modloader: Forge/Neoforge <br>
 
 - [Phayriosis Parasite Infection](https://www.curseforge.com/minecraft/mc-mods/phayriosis-parasite-infection) [Forge]
 - [Abominations Infection](https://www.curseforge.com/minecraft/mc-mods/abominationsinfection) [Forge, MCREATOR (MCreator is generally unstable)]
+
+- [Spawn Animations](https://modrinth.com/datapack/spawn-animations) [Fabric/Forge]
 
