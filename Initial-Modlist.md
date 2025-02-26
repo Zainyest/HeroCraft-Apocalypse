@@ -117,7 +117,6 @@ Modloader: Forge/Neoforge <br>
 - [L_Ender's Cataclysm](https://modrinth.com/mod/l_enders-cataclysm) [Forge]
 - [experimental_mobs](https://www.curseforge.com/minecraft/mc-mods/experimental-mobs) [Forge]
   - Note: Needs a custom spawn script and drop tables
-- [The Wilted](https://www.curseforge.com/minecraft/mc-mods/the-root-of-fear) [Forge]
 - [Cracker's Wither Storm](https://modrinth.com/mod/crackers-wither-storm-mod) [Forge]
 - [Crimson Steve's Mutant Mobs](https://modrinth.com/mod/crimson-steves-mutant-mobs) [Forge]
 - [Mutant Iceologer](https://modrinth.com/mod/mutant-iceologer-mod) [Forge]
@@ -277,7 +276,10 @@ Modloader: Forge/Neoforge <br>
   - [Terramity Experimental](https://modrinth.com/mod/terramityexperimentalitems)
 - [Extinction Z](https://www.curseforge.com/minecraft/mc-mods/extinction-z) [Forge]
 
+- [The Wilted](https://www.curseforge.com/minecraft/mc-mods/the-root-of-fear) [Forge]
+
 - [DR STONE](https://modrinth.com/mod/dr.-stone-kingdom-of-science)
 
 - [Garnished](https://modrinth.com/mod/create-garnished)
 - [Aquatic Ambitions](https://modrinth.com/mod/create-aquatic-ambitions)
+
