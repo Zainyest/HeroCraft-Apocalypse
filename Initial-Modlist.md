@@ -86,7 +86,6 @@ Modloader: Forge/Neoforge <br>
     - [Cosmic Horizons](https://modrinth.com/mod/cosmic-horizons-cosmos)
   - [Valkyrien Relogs](https://modrinth.com/mod/valkyrien-relogs)
   - [Trackwork](https://modrinth.com/mod/trackwork)
-  - [VS Crumbles](https://modrinth.com/mod/vs-crumbles)
 - [aleki's Nifty Ships](https://modrinth.com/mod/alekiships) [Forge]
 - [Biomancy](https://modrinth.com/mod/biomancy) [Forge]
   - [BioButcher's Delight](https://modrinth.com/datapack/biobutchers-delight) [Forge]
@@ -280,4 +279,5 @@ Modloader: Forge/Neoforge <br>
 ## Incompatible
 - [Hexxy Sky](https://modrinth.com/mod/hexsky)
 - [Epic Fight - Battle Arts](https://modrinth.com/mod/battle_arts)
+- [VS Crumbles](https://modrinth.com/mod/vs-crumbles)
 
