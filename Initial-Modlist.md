@@ -109,7 +109,7 @@ Modloader: Forge/Neoforge <br>
   - [Epic Fight - Sword Soaring](https://modrinth.com/mod/epic-fight-sword-soaring)
   - [Epic Fight Bow Tweak](https://modrinth.com/mod/epic-fight-bow-tweak)
   - [Weapons of Miracles](https://modrinth.com/mod/weapons-of-miracles)
-- [Souls-Like Universe](https://modrinth.com/mod/souls-like-universe)
+- [Souls-Like Universe](https://modrinth.com/mod/souls-like-universe) HORRIBLY UGLY AAAAAA
 
 ## Challenge:
 - [Consecration](https://www.curseforge.com/minecraft/mc-mods/consecration) [Fabric/Forge]
