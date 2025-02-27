@@ -81,7 +81,6 @@ Modloader: Forge/Neoforge <br>
     - [Clockwork: Atlas](https://modrinth.com/mod/clockwork-atlas)
   - [VMod](https://modrinth.com/mod/vmod)
   - [CC:VS](https://modrinth.com/mod/cc-vs)
-  - [Valkyrien Pirates](https://modrinth.com/mod/valkyrien-pirates)
   - [Starlance](https://modrinth.com/mod/starlance)
     - [Cosmic Horizons](https://modrinth.com/mod/cosmic-horizons-cosmos)
   - [Valkyrien Relogs](https://modrinth.com/mod/valkyrien-relogs)
@@ -279,5 +278,8 @@ Modloader: Forge/Neoforge <br>
 ## Incompatible
 - [Hexxy Sky](https://modrinth.com/mod/hexsky)
 - [Epic Fight - Battle Arts](https://modrinth.com/mod/battle_arts)
+
+## Fabric Only
 - [VS Crumbles](https://modrinth.com/mod/vs-crumbles)
+- [Valkyrien Pirates](https://modrinth.com/mod/valkyrien-pirates)
 
