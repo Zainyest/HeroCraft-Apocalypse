@@ -128,7 +128,6 @@ Modloader: Forge/Neoforge <br>
 - [Fungal Infection: Spore](https://modrinth.com/mod/fungal-infectionspore) [Forge]
 - [Withering Away: Reborn](https://www.curseforge.com/minecraft/mc-mods/withering-away-reborn) [Forge]
 - [When Day Breaks](https://www.curseforge.com/minecraft/mc-mods/scp-001-when-day-breaks) [Forge]
-- [Dawn of the Flood](https://modrinth.com/mod/dawn-of-the-flood) [Forge]
 - [The Hordes](https://modrinth.com/mod/the-hordes) [Forge]
   - Note: Check other mods for zombies to add to config
 - #### Beneficial Infections:
@@ -287,7 +286,9 @@ Modloader: Forge/Neoforge <br>
 - [Epic Fight - Sword Soaring](https://modrinth.com/mod/epic-fight-sword-soaring)
   - Fixed in https://www.curseforge.com/minecraft/mc-mods/sword-soaring/files/5626433
 - [Cracker's Wither Storm](https://modrinth.com/mod/crackers-wither-storm-mod) [Forge]
-  - Causes intense fog flickering 
+  - Causes intense fog flickering
+- [Dawn of the Flood](https://modrinth.com/mod/dawn-of-the-flood) [Forge]
+  - Causes Crashing lmao
 
 ## Fabric Only
 - [VS Crumbles](https://modrinth.com/mod/vs-crumbles)
