@@ -113,7 +113,6 @@ Modloader: Forge/Neoforge <br>
 - [L_Ender's Cataclysm](https://modrinth.com/mod/l_enders-cataclysm) [Forge]
 - [experimental_mobs](https://www.curseforge.com/minecraft/mc-mods/experimental-mobs) [Forge]
   - Note: Needs a custom spawn script and drop tables
-- [Cracker's Wither Storm](https://modrinth.com/mod/crackers-wither-storm-mod) [Forge]
 - [Crimson Steve's Mutant Mobs](https://modrinth.com/mod/crimson-steves-mutant-mobs) [Forge]
 - [Mutant Iceologer](https://modrinth.com/mod/mutant-iceologer-mod) [Forge]
 - [Mutant Monsters](https://modrinth.com/mod/mutant-monsters) [Fabric/Forge]
@@ -287,6 +286,8 @@ Modloader: Forge/Neoforge <br>
 - [Epic Fight - impactful](https://modrinth.com/mod/epic-fight-impactful)
 - [Epic Fight - Sword Soaring](https://modrinth.com/mod/epic-fight-sword-soaring)
   - Fixed in https://www.curseforge.com/minecraft/mc-mods/sword-soaring/files/5626433
+- [Cracker's Wither Storm](https://modrinth.com/mod/crackers-wither-storm-mod) [Forge]
+  - Causes intense fog flickering 
 
 ## Fabric Only
 - [VS Crumbles](https://modrinth.com/mod/vs-crumbles)
