@@ -137,6 +137,7 @@ Modloader: Forge/Neoforge <br>
 
 ## Environmental:
 - [Alex's Caves](https://modrinth.com/mod/alexs-caves) [Forge]
+  - Note: set "biome_sky_fog_overrides = false"
 - [Alex's Mobs](https://modrinth.com/mod/alexs-mobs) [Forge]
 - [Creatures and Beasts](https://modrinth.com/mod/creatures-and-beasts) [Forge]
 - [The Dawn Era](https://www.curseforge.com/minecraft/mc-mods/the-dawn-era) [Forge]
