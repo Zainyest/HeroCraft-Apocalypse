@@ -137,7 +137,6 @@ Modloader: Forge/Neoforge <br>
 - [Alex's Caves](https://modrinth.com/mod/alexs-caves) [Forge]
   - Note: set "biome_sky_fog_overrides = false"
 - [Alex's Mobs](https://modrinth.com/mod/alexs-mobs) [Forge]
-- [Creatures and Beasts](https://modrinth.com/mod/creatures-and-beasts) [Forge]
 - [The Dawn Era](https://www.curseforge.com/minecraft/mc-mods/the-dawn-era) [Forge]
   - [The Dawn Era Delight](https://modrinth.com/mod/the-dawn-era-delight/changelog)
 - [Underground Village, Stoneholm](https://modrinth.com/mod/underground-village,-stoneholm) [Fabric/Forge]
@@ -289,6 +288,7 @@ Modloader: Forge/Neoforge <br>
   - Causes intense fog flickering
 - [Dawn of the Flood](https://modrinth.com/mod/dawn-of-the-flood) [Forge]
   - Causes Crashing lmao
+- [Creatures and Beasts](https://modrinth.com/mod/creatures-and-beasts) [Forge]
 
 ## Fabric Only
 - [VS Crumbles](https://modrinth.com/mod/vs-crumbles)
