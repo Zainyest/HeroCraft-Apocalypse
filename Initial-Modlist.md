@@ -127,7 +127,6 @@ Modloader: Forge/Neoforge <br>
 - [The Flesh That Hates](https://modrinth.com/mod/tfth) [Forge]
 - [From Another World](https://modrinth.com/mod/from-another-world) [Fabric/Forge]
 - [Fungal Infection: Spore](https://modrinth.com/mod/fungal-infectionspore) [Forge]
-- [Prion Infection: Whispers From Within](https://www.curseforge.com/minecraft/mc-mods/prioninfection) [Fabric/Forge]
 - [Withering Away: Reborn](https://www.curseforge.com/minecraft/mc-mods/withering-away-reborn) [Forge]
 - [When Day Breaks](https://www.curseforge.com/minecraft/mc-mods/scp-001-when-day-breaks) [Forge]
 - [Dawn of the Flood](https://modrinth.com/mod/dawn-of-the-flood) [Forge]
@@ -291,4 +290,5 @@ Modloader: Forge/Neoforge <br>
 ## Fabric Only
 - [VS Crumbles](https://modrinth.com/mod/vs-crumbles)
 - [Valkyrien Pirates](https://modrinth.com/mod/valkyrien-pirates)
+- [Prion Infection: Whispers From Within](https://www.curseforge.com/minecraft/mc-mods/prioninfection) [Fabric/Forge]
 
