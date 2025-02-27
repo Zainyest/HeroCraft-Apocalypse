@@ -260,19 +260,24 @@ Modloader: Forge/Neoforge <br>
 - [Extinction Z](https://www.curseforge.com/minecraft/mc-mods/extinction-z) [Forge]
 - [Goblin's Tyranny](https://www.curseforge.com/minecraft/mc-mods/goblins-tyranny) [Forge]
 
+### Demonic horribleness
 - [ArPhEx](https://modrinth.com/mod/arphex) [Forge]
 - [From The Shadows Reborn](https://legacy.curseforge.com/minecraft/mc-mods/from-the-shadow-reborn) [Forge]
 - [The Wilted](https://www.curseforge.com/minecraft/mc-mods/the-root-of-fear) [Forge]
 
+### Alternate start
 - [DR STONE](https://modrinth.com/mod/dr.-stone-kingdom-of-science)
 
+### Possible Feature Bloat
 - [Garnished](https://modrinth.com/mod/create-garnished)
 - [Aquatic Ambitions](https://modrinth.com/mod/create-aquatic-ambitions)
 - [Illager Additions](https://www.curseforge.com/minecraft/mc-mods/illager-additions) [Forge]
 
+### Too-many-entities infection/horde
 - [Phayriosis Parasite Infection](https://www.curseforge.com/minecraft/mc-mods/phayriosis-parasite-infection) [Forge]
 - [Abominations Infection](https://www.curseforge.com/minecraft/mc-mods/abominationsinfection) [Forge, MCREATOR (MCreator is generally unstable)]
 
+### Possible jump-scare-much, but also may be good for performance
 - [Spawn Animations](https://modrinth.com/datapack/spawn-animations) [Fabric/Forge]
 
 ## Incompatible/ Out of Date
@@ -282,7 +287,6 @@ Modloader: Forge/Neoforge <br>
 - [Epic Fight - impactful](https://modrinth.com/mod/epic-fight-impactful)
 - [Epic Fight - Sword Soaring](https://modrinth.com/mod/epic-fight-sword-soaring)
   - Fixed in https://www.curseforge.com/minecraft/mc-mods/sword-soaring/files/5626433
-
 
 ## Fabric Only
 - [VS Crumbles](https://modrinth.com/mod/vs-crumbles)
