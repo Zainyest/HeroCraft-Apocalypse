@@ -101,10 +101,10 @@ Modloader: Forge/Neoforge <br>
 - [Samurai Dynasty](https://modrinth.com/mod/epic-samurais) [Forge]
 - [Epic Fight](https://modrinth.com/mod/epic-fight) [Forge]
   - [Epic Fight & Other Mods Weapons Compabilities](https://modrinth.com/mod/efmcompat)
-  - [Epic Fight - impactful](https://modrinth.com/mod/epic-fight-impactful)
-  - [Epic Fight - Sword Soaring](https://modrinth.com/mod/epic-fight-sword-soaring)
   - [Epic Fight Bow Tweak](https://modrinth.com/mod/epic-fight-bow-tweak)
   - [Weapons of Miracles](https://modrinth.com/mod/weapons-of-miracles)
+  - [Epic Fight - Sword Soaring](https://www.curseforge.com/minecraft/mc-mods/sword-soaring/files/5626433)
+  - [Epic Fight - Battle Arts](https://www.curseforge.com/minecraft/mc-mods/ef-bs/files/6094858)
 - [Souls-Like Universe](https://modrinth.com/mod/souls-like-universe) HORRIBLY UGLY AAAAAA
 
 ## Challenge:
@@ -275,9 +275,14 @@ Modloader: Forge/Neoforge <br>
 
 - [Spawn Animations](https://modrinth.com/datapack/spawn-animations) [Fabric/Forge]
 
-## Incompatible
+## Incompatible/ Out of Date
 - [Hexxy Sky](https://modrinth.com/mod/hexsky)
 - [Epic Fight - Battle Arts](https://modrinth.com/mod/battle_arts)
+  - Fixed in https://www.curseforge.com/minecraft/mc-mods/ef-bs/files/6094858
+- [Epic Fight - impactful](https://modrinth.com/mod/epic-fight-impactful)
+- [Epic Fight - Sword Soaring](https://modrinth.com/mod/epic-fight-sword-soaring)
+  - Fixed in https://www.curseforge.com/minecraft/mc-mods/sword-soaring/files/5626433
+
 
 ## Fabric Only
 - [VS Crumbles](https://modrinth.com/mod/vs-crumbles)
