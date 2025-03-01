@@ -51,6 +51,7 @@ Modloader: Forge/Neoforge <br>
     - NOTE: Change configs to remove some turtle functionality (they can be a bit strong)
     - [CC:C Bridge](https://modrinth.com/mod/cccbridge)
     - [Advanced Peripherals](https://modrinth.com/mod/advancedperipherals)
+    - [More Peripherals](https://modrinth.com/mod/more-peripherals)
   - [Enchantment Industry](https://modrinth.com/mod/create-enchantment-industry)
   - [Dreams & Desires](https://modrinth.com/mod/create-dreams-and-desires)
   - [Central Kitchen](https://modrinth.com/mod/create-central-kitchen)
@@ -65,6 +66,7 @@ Modloader: Forge/Neoforge <br>
     - NOTE: Might be redundant
   - [Dynamic Lights](https://modrinth.com/mod/create-dynamic-lights)
   - [Destroy](https://modrinth.com/mod/destroy)
+    - [CC:Destroy Bridge](https://modrinth.com/mod/ccdbridge)
   - [Wizardry](https://modrinth.com/mod/create-wizardry)
   - [Dynamic Village](https://modrinth.com/mod/dynamic-village)
   - [Addon Compatibility](https://modrinth.com/mod/createaddoncompatibility)
@@ -159,11 +161,14 @@ Modloader: Forge/Neoforge <br>
   - [Deep Aether](https://modrinth.com/mod/deep-aether)
   - [Aether Villages](https://modrinth.com/mod/aether-villages)
   - [Aether Lost Content](https://modrinth.com/mod/aether-lost-content)
+  - [Dynamic Trees - The Aether](https://modrinth.com/mod/dynamic-trees-aether)
+- [The Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest) [Fabric/Forge]
 - [Mutated Items](https://modrinth.com/mod/mutated-items) [Forge]
 - [Ice and Fire](https://modrinth.com/mod/ice-and-fire-dragons) [Forge]
   - [IAF Patcher](https://modrinth.com/mod/iaf-patcher)
 - [Marium's Soulslike Weaponry](https://modrinth.com/mod/mariums-soulslike-weaponry) [Fabric/Forge]
 - [Immersive Weathering](https://modrinth.com/mod/immersive-weathering) [Fabric/Forge]
+  - [Dynamic Trees for Immersive Weathering Soils](https://modrinth.com/mod/dynamic-trees-for-immersive-weathering-soils) []
 - [Burnt](https://modrinth.com/mod/burnt) [Forge]
 - [Aquatica](https://legacy.curseforge.com/minecraft/mc-mods/aquaticamod) [Forge]
 - [Choup's Drakvyrn Mod](https://modrinth.com/mod/choups-drakvyrn-mod) [Forge]
@@ -179,6 +184,8 @@ Modloader: Forge/Neoforge <br>
   - [Miner's Delight](https://modrinth.com/mod/miners-delight)
 - [Spice Of Life](https://modrinth.com/mod/foodvariations) [Forge]
 - [Supplementaries](https://modrinth.com/mod/supplementaries) [Fabric/Forge]
+  - [Amendments](https://modrinth.com/mod/amendments)
+- [Dynamic Trees](https://modrinth.com/mod/dynamictrees) [Fabric/Forge]
 
 ## Progression / customization:
 - [Dimensional Doors](https://modrinth.com/mod/dimensionaldoors) [Fabric/Forge]
@@ -209,7 +216,6 @@ Modloader: Forge/Neoforge <br>
 - [Corpse, But Better](https://modrinth.com/mod/corpse-but-better) [Forge]
 - [Crafting Tweaks](https://modrinth.com/mod/crafting-tweaks) [Fabric/Forge]
 - [Controlling](https://modrinth.com/mod/controlling) [Fabric/Forge]
-- [Cut Through](https://modrinth.com/mod/cut-through) [Fabric/Forge]
 - [Effect Tooltips](https://modrinth.com/mod/effect-tooltips) [Fabric/Forge]
 - [Enchantment Descriptions](https://modrinth.com/mod/enchantment-descriptions) [Fabric/Forge]
 - [Mouse Tweaks](https://modrinth.com/mod/mouse-tweaks) [Fabric/Forge]
@@ -232,12 +238,16 @@ Modloader: Forge/Neoforge <br>
 ## Fixes and Performance:
 - [Almost Unified](https://modrinth.com/mod/almost-unified) [Fabric/Forge]
 - [Every Compat (Wood Good)](https://modrinth.com/mod/every-compat) [Fabric/Forge]
+- [Every Compat (Stone Zone)](https://modrinth.com/mod/stone-zone) [Fabric/Forge]
 - [Oculus](https://modrinth.com/mod/oculus) [Forge]
   - [Iris/Oculus Flywheel Compat](https://modrinth.com/mod/iris-flw-compat)
   - [Iris/Oculus GeckoLib Compat](https://modrinth.com/mod/geckoanimfix)
 - [Embeddium](https://modrinth.com/mod/embeddium) [Faric/Forge]
+- [Canary](https://modrinth.com/mod/canary) [Forge]
 - [Entity Culling](https://modrinth.com/mod/entityculling) [Fabric/Forge]
 - [Adaptive Performance Tweaks](https://modrinth.com/mod/adaptive-performance-tweaks) [Forge]
+- [Neruina](https://modrinth.com/mod/neruina) [Fabric/Forge]
+- [Ferrite Core](https://modrinth.com/mod/ferrite-core) [Fabric/Forge]
 
 ## Considering
 ### Tech Dimension
@@ -290,6 +300,7 @@ Modloader: Forge/Neoforge <br>
 - [MoreGates Addon](https://modrinth.com/mod/moregates)
 - [Distant Horizons](https://modrinth.com/mod/distanthorizons) [Fabric/Forge]
   - Constantly spamming broken
+- [Cut Through](https://modrinth.com/mod/cut-through) [Fabric/Forge]
 
 
 ## Fabric Only
