@@ -137,8 +137,6 @@ Modloader: Forge/Neoforge <br>
 - [Alex's Caves](https://modrinth.com/mod/alexs-caves) [Forge]
   - Note: set "biome_sky_fog_overrides = false"
 - [Alex's Mobs](https://modrinth.com/mod/alexs-mobs) [Forge]
-- [The Dawn Era](https://www.curseforge.com/minecraft/mc-mods/the-dawn-era) [Forge]
-  - [The Dawn Era Delight](https://modrinth.com/mod/the-dawn-era-delight/changelog)
 - [Underground Village, Stoneholm](https://modrinth.com/mod/underground-village,-stoneholm) [Fabric/Forge]
 - [MineColonies](https://www.curseforge.com/minecraft/mc-mods/minecolonies) [Forge]
   - [TownTalk](https://www.curseforge.com/minecraft/mc-mods/towntalk)
@@ -192,12 +190,10 @@ Modloader: Forge/Neoforge <br>
   - [Passive Skill Tree Stage](https://www.curseforge.com/minecraft/mc-mods/passive-skill-tree-stage)
 - [CraftTweaker](https://modrinth.com/mod/crafttweaker) [Fabric/Forge]
   - [CreateTweaker](https://modrinth.com/mod/createtweaker) [Fabric/Forge]
-- [True Darkness Biomes](https://modrinth.com/mod/true-darkness-biomes) [Forge]
 - [Simple Clouds](https://modrinth.com/mod/simple-clouds) [Forge]
 - [Immersive Portals for (Neo)Forge](https://modrinth.com/mod/immersive-portals-neoforge) [Forge]
   - [Immersive Infinity](https://modrinth.com/mod/immersive-infinity)
 - [Stargate Journey](https://modrinth.com/mod/sgjourney) [Forge]
-  - [MoreGates Addon](https://modrinth.com/mod/moregates)
   - [Train Compat](https://modrinth.com/mod/sgtrain)
 - [Weeping Angels](https://modrinth.com/mod/weeping-angels) [Fabric/Forge]
 - [Create: Teleporters](https://modrinth.com/mod/create-teleporters) [Forge]
@@ -214,7 +210,6 @@ Modloader: Forge/Neoforge <br>
 - [Crafting Tweaks](https://modrinth.com/mod/crafting-tweaks) [Fabric/Forge]
 - [Controlling](https://modrinth.com/mod/controlling) [Fabric/Forge]
 - [Cut Through](https://modrinth.com/mod/cut-through) [Fabric/Forge]
-- [Distant Horizons](https://modrinth.com/mod/distanthorizons) [Fabric/Forge]
 - [Effect Tooltips](https://modrinth.com/mod/effect-tooltips) [Fabric/Forge]
 - [Enchantment Descriptions](https://modrinth.com/mod/enchantment-descriptions) [Fabric/Forge]
 - [Mouse Tweaks](https://modrinth.com/mod/mouse-tweaks) [Fabric/Forge]
@@ -289,6 +284,13 @@ Modloader: Forge/Neoforge <br>
 - [Dawn of the Flood](https://modrinth.com/mod/dawn-of-the-flood) [Forge]
   - Causes Crashing lmao
 - [Creatures and Beasts](https://modrinth.com/mod/creatures-and-beasts) [Forge]
+- [The Dawn Era](https://www.curseforge.com/minecraft/mc-mods/the-dawn-era) [Forge]
+  - [The Dawn Era Delight](https://modrinth.com/mod/the-dawn-era-delight/changelog)
+- [True Darkness Biomes](https://modrinth.com/mod/true-darkness-biomes) [Forge]
+- [MoreGates Addon](https://modrinth.com/mod/moregates)
+- [Distant Horizons](https://modrinth.com/mod/distanthorizons) [Fabric/Forge]
+  - Constantly spamming broken
+
 
 ## Fabric Only
 - [VS Crumbles](https://modrinth.com/mod/vs-crumbles)
