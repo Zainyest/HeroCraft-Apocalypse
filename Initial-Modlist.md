@@ -248,6 +248,21 @@ Modloader: Forge/Neoforge <br>
 - [Adaptive Performance Tweaks](https://modrinth.com/mod/adaptive-performance-tweaks) [Forge]
 - [Neruina](https://modrinth.com/mod/neruina) [Fabric/Forge]
 - [Ferrite Core](https://modrinth.com/mod/ferrite-core) [Fabric/Forge]
+- [Clumps](https://modrinth.com/mod/Wnxd13zP)
+- [Packet Fixer](https://modrinth.com/mod/c7m1mi73)
+- [AI Improvements](https://modrinth.com/mod/DSVgwcji)
+- [BadOptimizations](https://modrinth.com/mod/g96Z4WVZ)
+- [ModernFix](https://modrinth.com/mod/nmDcB62a)
+- [Connectivity Mod](https://www.curseforge.com/projects/470193)
+- [SmoothChunk Mod](https://www.curseforge.com/projects/582327)
+- [Structure Essentials Mod](https://www.curseforge.com/projects/832882)
+- [Fast Furnace](https://www.curseforge.com/projects/299540)
+- [ChunkSending Mod](https://www.curseforge.com/projects/831663)
+- [Betterchunkloading Mod](https://www.curseforge.com/projects/899487)
+- [Fastasyncworldsave mod](https://www.curseforge.com/projects/951499)
+- [Fast WorkBench](https://www.curseforge.com/projects/288885)
+- [RecipeEssentials mod](https://www.curseforge.com/projects/907856)
+- [NERB](https://www.curseforge.com/projects/738663)
 
 ## Considering
 ### Tech Dimension
