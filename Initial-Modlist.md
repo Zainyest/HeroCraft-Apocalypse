@@ -128,7 +128,6 @@ Modloader: Forge/Neoforge <br>
 - [The Flesh That Hates](https://modrinth.com/mod/tfth) [Forge]
 - [From Another World](https://modrinth.com/mod/from-another-world) [Fabric/Forge]
 - [Fungal Infection: Spore](https://modrinth.com/mod/fungal-infectionspore) [Forge]
-- [Withering Away: Reborn](https://www.curseforge.com/minecraft/mc-mods/withering-away-reborn) [Forge]
 - [When Day Breaks](https://www.curseforge.com/minecraft/mc-mods/scp-001-when-day-breaks) [Forge]
 - [The Hordes](https://modrinth.com/mod/the-hordes) [Forge]
   - Note: Check other mods for zombies to add to config
@@ -293,6 +292,7 @@ Modloader: Forge/Neoforge <br>
 ### Too-many-entities infection/horde
 - [Phayriosis Parasite Infection](https://www.curseforge.com/minecraft/mc-mods/phayriosis-parasite-infection) [Forge]
 - [Abominations Infection](https://www.curseforge.com/minecraft/mc-mods/abominationsinfection) [Forge, MCREATOR (MCreator is generally unstable)]
+- [Withering Away: Reborn](https://www.curseforge.com/minecraft/mc-mods/withering-away-reborn) [Forge]
 
 ### Possible jump-scare-much, but also may be good for performance
 - [Spawn Animations](https://modrinth.com/datapack/spawn-animations) [Fabric/Forge]
