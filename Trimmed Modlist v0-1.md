@@ -278,7 +278,6 @@
 	<li><a href="https://www.curseforge.com/projects/738663">Not Enough Recipe Book</a></li>
 	<li><a href="https://www.curseforge.com/projects/916747">OctoLib</a></li>
 	<li><a href="https://www.curseforge.com/projects/326652">Cupboard utilities</a></li>
-	<li><a href="https://modrinth.com/mod/mQdEVqSA">Immersive Snow</a></li>
 	<li><a href="https://modrinth.com/mod/e0bNACJD">Serene Seasons</a></li>
 	<li><a href="https://modrinth.com/mod/1LtXIG7a">Serene Seasons Fix</a></li>
 	<li><a href="https://modrinth.com/mod/LPjGiSO4">Nullscape</a></li>
@@ -305,4 +304,14 @@
 	<li><a href="https://modrinth.com/mod/ufdDoWPd">Kiwi 🥝</a></li>
 	<li><a href="https://modrinth.com/mod/Ua7DFN59">YUNG's API</a></li>
 	<li><a href="https://modrinth.com/mod/TaSmHw8V">Immersive Melodies</a></li>
+	<li><a href="https://modrinth.com/mod/9paueCZy">Dynamic Trees - Quark</a></li>
+	<li><a href="https://modrinth.com/mod/Ir9eTVLd">Modular Force Field System</a></li>
+	<li><a href="https://modrinth.com/mod/qaO9Dqpu">Dynamic Trees +</a></li>
+	<li><a href="https://www.curseforge.com/projects/433068">Presence Footsteps (Forge)</a></li>
+	<li><a href="https://modrinth.com/mod/AK1n0IqM">Dynamic Lights</a></li>
+	<li><a href="https://modrinth.com/mod/ZouiUX7t">Sounds</a></li>
+	<li><a href="https://modrinth.com/mod/SNVQ2c0g">M.R.U</a></li>
+	<li><a href="https://modrinth.com/mod/IhZuHxkl">Pretty Rain</a></li>
+	<li><a href="https://modrinth.com/mod/gPCdW0Wr">Make Bubbles Pop</a></li>
+	<li><a href="https://modrinth.com/mod/T8MMXTpr">Drip Sounds</a></li>
 </ul></body></html>
