@@ -125,6 +125,16 @@ Modloader: Forge/Neoforge <br>
 - [Moss Overgrowth!](https://www.curseforge.com/minecraft/mc-mods/moss-overgrowth) [Forge]
 
 ## Environmental:
+- [Integrated Dungeons and Structures](https://modrinth.com/mod/Z8OZShAU)
+- [Integrated Stronghold](https://modrinth.com/mod/KUJdfPQz)
+- [Integrated Villages](https://modrinth.com/mod/o1qh5qIF)
+- [YUNG's Better Nether Fortresses](https://modrinth.com/mod/Z2mXHnxP)
+- [YUNG's Better Mineshafts](https://modrinth.com/mod/HjmxVlSr)
+- [YUNG's Better Witch Huts](https://modrinth.com/mod/t5FRdP87)
+- [YUNG's Better Ocean Monuments](https://modrinth.com/mod/3dT9sgt4)
+- [YUNG's Better Jungle Temples](https://modrinth.com/mod/z9Ve58Ih)
+- [YUNG's Better Desert Temples](https://modrinth.com/mod/XNlO7sBv)
+- [YUNG's Better End Island](https://modrinth.com/mod/2BwBOmBQ)
 - [Alex's Caves](https://modrinth.com/mod/alexs-caves) [Forge]
   - Note: set "biome_sky_fog_overrides = false"
 - [Alex's Mobs](https://modrinth.com/mod/alexs-mobs) [Forge]
