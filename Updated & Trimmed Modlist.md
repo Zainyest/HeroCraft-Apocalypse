@@ -76,6 +76,7 @@ Modloader: Forge/Neoforge <br>
   - [Nuclear](https://modrinth.com/mod/createnuclear/gallery)
 
 - [AE2](https://modrinth.com/mod/ae2) [Forge/Fabric]
+  - NOTE: Edit some base recipes to need endgame materials or horde-materials
   - [Polymorphic Energistics](https://modrinth.com/mod/polymorphic-energistics)
   - [Ars Energistique](https://modrinth.com/mod/ars-energistique)
 
