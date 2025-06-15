@@ -95,7 +95,6 @@ Modloader: Forge/Neoforge <br>
 ## Martial / Combat:
 - [Celestisynth](https://modrinth.com/mod/celestisynth) [Forge]
 - [Parcool](https://modrinth.com/mod/parcool) [Forge]
-  - [Epic Compat](https://modrinth.com/mod/epic-compat-parcool)
 - [Samurai Dynasty](https://modrinth.com/mod/epic-samurais) [Forge]
 - [Better Combat](https://modrinth.com/mod/better-combat) [Fabric/Forge]
   - NOTE: Check for addons and compat
