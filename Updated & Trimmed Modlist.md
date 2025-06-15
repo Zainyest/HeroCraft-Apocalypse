@@ -44,7 +44,6 @@ Modloader: Forge/Neoforge <br>
     - [CBC: Nuclear](https://modrinth.com/mod/cbc-nuclear)
     - [CBC: Advanced Technologies](https://modrinth.com/mod/create-big-cannons-advanced-technologies)
     - [CBCModernWarfare](https://modrinth.com/mod/cbcmodernwarfare)
-  - [Goggles](https://modrinth.com/mod/create-goggles)
   - [CC: Tweaked](https://modrinth.com/mod/cc-tweaked)
     - NOTE: Change configs to remove some turtle functionality (they can be a bit strong)
     - [CC:C Bridge](https://modrinth.com/mod/cccbridge)
