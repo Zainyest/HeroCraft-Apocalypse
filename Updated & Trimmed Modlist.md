@@ -163,7 +163,6 @@ Modloader: Forge/Neoforge <br>
 - [Immersive Weathering](https://modrinth.com/mod/immersive-weathering) [Fabric/Forge]
   - [Dynamic Trees for Immersive Weathering Soils](https://modrinth.com/mod/dynamic-trees-for-immersive-weathering-soils) []
 - [Burnt](https://modrinth.com/mod/burnt) [Forge]
-- [Aquatica](https://legacy.curseforge.com/minecraft/mc-mods/aquaticamod) [Forge]
 - [Oh The Biomes We've Gone](https://modrinth.com/mod/oh-the-biomes-weve-gone) [Fabric/Forge]
 - [Quark](https://modrinth.com/mod/quark) [Forge]
   - [Quark Oddities](https://modrinth.com/mod/quark-oddities)
