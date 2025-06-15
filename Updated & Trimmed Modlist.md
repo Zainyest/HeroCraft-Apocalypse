@@ -8,7 +8,6 @@ Modloader: Forge/Neoforge <br>
   - [T.O Tweaks - Iron's Spells Add-on](https://modrinth.com/mod/to-tweaks-irons-spells)
   - [Spells Gone Wrong](https://modrinth.com/mod/spells-gone-wrong)
   - [Ice and Fire Spellbooks](https://modrinth.com/mod/ice-and-fire-spellbooks)
-  - [Cataclysm Spellbooks](https://modrinth.com/mod/cataclysm-spellbooks)
   - [Iron's Spells Delight](https://modrinth.com/mod/irons-spells-delight)
   - [Alshanex's Familiars](https://modrinth.com/mod/alshanexs-familiars)
 - [Ars Nouveau](https://modrinth.com/mod/ars-nouveau) [Forge]
@@ -303,3 +302,4 @@ Modloader: Forge/Neoforge <br>
 - [Distant Horizons](https://modrinth.com/mod/distanthorizons) [Fabric/Forge]
   - Constantly spamming broken
 - [Cut Through](https://modrinth.com/mod/cut-through) [Fabric/Forge]
+- [Cataclysm Spellbooks](https://modrinth.com/mod/cataclysm-spellbooks) [1.19 or 1.21]
