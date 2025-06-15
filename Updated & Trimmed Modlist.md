@@ -159,7 +159,6 @@ Modloader: Forge/Neoforge <br>
   - [Aether Lost Content](https://modrinth.com/mod/aether-lost-content)
   - [Dynamic Trees - The Aether](https://modrinth.com/mod/dynamic-trees-aether)
 - [The Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest) [Fabric/Forge]
-- [Mutated Items](https://modrinth.com/mod/mutated-items) [Forge]
 - [Marium's Soulslike Weaponry](https://modrinth.com/mod/mariums-soulslike-weaponry) [Fabric/Forge]
 - [Immersive Weathering](https://modrinth.com/mod/immersive-weathering) [Fabric/Forge]
   - [Dynamic Trees for Immersive Weathering Soils](https://modrinth.com/mod/dynamic-trees-for-immersive-weathering-soils) []
