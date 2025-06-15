@@ -136,7 +136,6 @@ Modloader: Forge/Neoforge <br>
 - [Alex's Caves](https://modrinth.com/mod/alexs-caves) [Forge]
   - Note: set "biome_sky_fog_overrides = false"
 - [Alex's Mobs](https://modrinth.com/mod/alexs-mobs) [Forge]
-- [Underground Village, Stoneholm](https://modrinth.com/mod/underground-village,-stoneholm) [Fabric/Forge]
 - [MineColonies](https://www.curseforge.com/minecraft/mc-mods/minecolonies) [Forge]
   - [TownTalk](https://www.curseforge.com/minecraft/mc-mods/towntalk)
   - [Stylecolonies](https://www.curseforge.com/minecraft/mc-mods/stylecolonies)
