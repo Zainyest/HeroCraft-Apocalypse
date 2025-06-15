@@ -8,7 +8,6 @@ Modloader: Forge/Neoforge <br>
   - [T.O Tweaks - Iron's Spells Add-on](https://modrinth.com/mod/to-tweaks-irons-spells)
   - [Spells Gone Wrong](https://modrinth.com/mod/spells-gone-wrong)
   - [Ice and Fire Spellbooks](https://modrinth.com/mod/ice-and-fire-spellbooks)
-  - [Iron's Spells Delight](https://modrinth.com/mod/irons-spells-delight)
   - [Alshanex's Familiars](https://modrinth.com/mod/alshanexs-familiars)
 - [Ars Nouveau](https://modrinth.com/mod/ars-nouveau) [Forge]
   - [Ars Elemental](https://www.curseforge.com/minecraft/mc-mods/ars-elemental)
@@ -178,6 +177,7 @@ Modloader: Forge/Neoforge <br>
    - [Mowzie's Cataclysm](https://modrinth.com/mod/mowzies-cataclysm)
 - [Farmer's Delight](https://modrinth.com/mod/farmers-delight) [Forge]
   - [Miner's Delight](https://modrinth.com/mod/miners-delight)
+  - [Compat Delight](https://modrinth.com/mod/compat-delight)
 - [Spice Of Life](https://modrinth.com/mod/foodvariations) [Forge]
 - [Supplementaries](https://modrinth.com/mod/supplementaries) [Fabric/Forge]
   - [Amendments](https://modrinth.com/mod/amendments)
