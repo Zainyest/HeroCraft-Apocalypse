@@ -12,7 +12,7 @@ Modloader: Forge/Neoforge <br>
 - [Ars Nouveau](https://modrinth.com/mod/ars-nouveau) [Forge]
   - [Ars Elemental](https://www.curseforge.com/minecraft/mc-mods/ars-elemental)
   - [Ars Technica](https://www.curseforge.com/minecraft/mc-mods/ars-technica)
-  - [Too Many Glyphs](https://www.curseforge.com/minecraft/mc-mods/too-many-glyphs)
+  - [Not Enough Glyphs](https://www.curseforge.com/minecraft/mc-mods/not-enough-glyphs)
   - [Mana Unification](https://www.curseforge.com/minecraft/mc-mods/mana-unification)
   - [Tome Of Blood Rebirth](https://modrinth.com/mod/tome-of-blood-rebirth)
     - [Blood Magic](https://modrinth.com/mod/blood-magic)
