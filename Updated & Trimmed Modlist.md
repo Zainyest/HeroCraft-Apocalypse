@@ -174,7 +174,6 @@ Modloader: Forge/Neoforge <br>
 - [Farmer's Delight](https://modrinth.com/mod/farmers-delight) [Forge]
   - [Miner's Delight](https://modrinth.com/mod/miners-delight)
   - [Compat Delight](https://modrinth.com/mod/compat-delight)
-- [Spice Of Life](https://modrinth.com/mod/foodvariations) [Forge]
 - [Supplementaries](https://modrinth.com/mod/supplementaries) [Fabric/Forge]
   - [Amendments](https://modrinth.com/mod/amendments)
 - [Dynamic Trees](https://modrinth.com/mod/dynamictrees) [Fabric/Forge]
