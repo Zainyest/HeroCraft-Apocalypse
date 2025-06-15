@@ -203,7 +203,6 @@ Modloader: Forge/Neoforge <br>
 
 ## QOL:
 - [Item Scrapper](https://www.curseforge.com/minecraft/mc-mods/item-scrapper) [Forge]
-- [HandToHand](https://modrinth.com/mod/handtohand) [Fabric/Forge]
 - [Corpse, But Better](https://modrinth.com/mod/corpse-but-better) [Forge]
 - [Crafting Tweaks](https://modrinth.com/mod/crafting-tweaks) [Fabric/Forge]
 - [Controlling](https://modrinth.com/mod/controlling) [Fabric/Forge]
